@@ -1,5 +1,9 @@
 # Ultralight Backpacking Checklist
 
+[Gossamer Gear](https://www.gossamergear.com)
+
+[Hummingbird Hammocks](https://hummingbirdhammocks.com)
+
 map, compass, permit
 
 backpack, pack cover, trekking poles
