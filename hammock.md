@@ -62,6 +62,9 @@ Enigma Custom | 20 F | 19.25 oz | $395 | 950 | Standard
 Enigma Custom | 10 F | 22.15 oz | $435 | 950 | Standard
 Enigma Custom |  0 F | 25.07 oz | $470 | 950 | Standard
 
+Replace Enigma Custom with https://enlightenedequipment.com/enigma-h-e-custom/
+
+Add https://enlightenedequipment.com/revolt-custom/
 
 
 
