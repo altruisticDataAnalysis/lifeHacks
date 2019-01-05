@@ -1,25 +1,5 @@
 # Ultralight Backpacking 
 
-## Hammock jazz
-[Gossamer Gear](https://www.gossamergear.com)
-
-[Hummingbird Hammocks](https://hummingbirdhammocks.com)
-
-[HG](www.hammockgear.com) cuben fiber tarp, snake skins, guy lines (9 oz) top of pack in cuben fiber stuff sack
-
-tothewoods.net for instructions on making a hammock 15 oz
-
-[2qzqhammockhanger.com](2qzqhammockhanger.com) underquilt protector, 7 oz **
-
-[jacksrbetter.com](jacksrbetter.com) topquilt 850 fill 20 F 
-
-titanium sheppard hooks (4) in 
-cuben bag from Gossamer Gear
-
-thermarest sit pad in footbox of hammock
-
-franken underquilt 20 degrees, short homemade do not diy!
-
 ## Checklist
 
 map, compass, permit, extra lighter, reading glasses, extra headlamp battery, car key, id, 
