@@ -1,8 +1,16 @@
-# Ultralight Backpacking Checklist
+# Ultralight Backpacking 
 
+## Hammock jazz
 [Gossamer Gear](https://www.gossamergear.com)
 
 [Hummingbird Hammocks](https://hummingbirdhammocks.com)
+
+[HG](www.hammockgear.com) cuben fiber tarp, snake skins, guy lines (9 oz) top of pack in cuben fiber stuff sack
+
+titanium sheppard hooks (4) in 
+cuben bag from Gossamer Gear
+
+## Checklist
 
 map, compass, permit
 
@@ -48,4 +56,97 @@ small piece of biodegradable soap,
 two biodegradable baby wipes per day (dried), 
 cut up paper towel as TP (zip lock bag to pack out),
 deuce trowel
+
+
+## Shug's Pack Load for 30 to 45 F Wet, Windy and Cold Trip
+
+[YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
+
+Hammock
+Underquilt
+Topquilt
+
+OR outdoor research gators
+
+soft plastic bottles
+
+platypus
+
+ula gravity pro
+
+sawyer 3 in 1 filter
+
+### cook kit 1 lb
+
+titanium pot
+
+lighter
+
+
+### misc
+
+Coghlans, digital compass
+
+clevelandkydex.com knife
+
+skin lube in a small container
+
+whistle
+
+marking tape for trail sign
+
+dermatone sunscreen for face
+
+blistoban blister pad
+
+emergency water tabs
+
+compass
+
+gorilla tape
+
+beanie
+
+balaclava
+
+poop bag
+
+trowel
+
+petzl tikka headlamp
+
+manzella windstopper gloves
+
+wind pants 2 oz
+
+waterproofing for cell phone
+
+reflectix at home despot 2'^2
+
+3 mil plastic to put pack on
+
+wind running shirt, ah yeah! love it.
+
+cuben fiber pack cover 1.5 oz
+
+ula rain proof mits
+
+fleece
+
+outdoor research palladin jacket (rain)
+
+
+
+### lunch bag
+packitgormet
+hummus packs
+peanut butter packs
+
+### breakfast bag
+pancakes, syrup, butter
+
+
+
+
+
 
