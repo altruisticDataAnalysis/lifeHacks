@@ -47,7 +47,8 @@ Enigma-H.E. Custom (topquilt) | 0 F | 23.72 oz | $445 | 950 | Regular/Regular
 [JackRBetter High Sierra Sniveller topquilt](http://www.jacksrbetter.com/shop/high-sierra-sniveller/) | 5-10 F | 29 oz | $310 | 800 | Regular
 Sierra Sniveller topquilt | 20-25 F | 24 oz | $270 | 800 | Regular
 Sierra Sniveller topquilt | 20-25 F | 26 oz | $290 | 800 | 2 oz 
-
+[Hummingbird Hammocks Puffin underquilt](https://hummingbirdhammocks.com/shop/puffin-underquilt/) | 30 F | 27.5 oz | $180 | 800 | too heavy
+[Kammok Firebelly underquilt](https://kammok.com/products/firebelly) | 30 F |  25 oz | $280 | 750 | too heavy
 
 
 
