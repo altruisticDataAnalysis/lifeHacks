@@ -7,12 +7,22 @@
 
 [HG](www.hammockgear.com) cuben fiber tarp, snake skins, guy lines (9 oz) top of pack in cuben fiber stuff sack
 
+tothewoods.net for instructions on making a hammock 15 oz
+
+[2qzqhammockhanger.com](2qzqhammockhanger.com) underquilt protector, 7 oz **
+
+[jacksrbetter.com](jacksrbetter.com) topquilt 850 fill 20 F 
+
 titanium sheppard hooks (4) in 
 cuben bag from Gossamer Gear
 
+thermarest sit pad in footbox of hammock
+
+franken underquilt 20 degrees, short homemade do not diy!
+
 ## Checklist
 
-map, compass, permit
+map, compass, permit, extra lighter, reading glasses, extra headlamp battery, car key, id, 
 
 backpack, pack cover, trekking poles
 
@@ -105,17 +115,33 @@ compass
 
 gorilla tape
 
-beanie
 
-balaclava
 
-poop bag
-
+### poop pack
+short toothbrush
+floss,
+toothpaste dots,
+TP,
+wet ones
+hand sanitizer
+ibuprofen
 trowel
 
 petzl tikka headlamp
 
+### layers
+
+blackRockGear.com down beanie 23g **
+
+wristies.com wrist warmers
+
+possum down fingerless gloves
+
+beanie
+
 manzella windstopper gloves
+
+balaclava
 
 wind pants 2 oz
 
@@ -135,15 +161,41 @@ fleece
 
 outdoor research palladin jacket (rain)
 
+OR rain pants with long zipper up leg, don't be w/o them
 
 
 ### lunch bag
-packitgormet
-hummus packs
-peanut butter packs
+www.PackitGourmet.com
+  hummus packs
+  peanut butter packs
+  Texas State Fair Chili
+  2 paper towels
+  
 
 ### breakfast bag
 pancakes, syrup, butter
+oatmeal
+madaglia doro espresso coffee in baggies, twist tie, cut excess plastic
+chocolate disk
+paper towels
+
+trash compactor bag as backpack liner,
+
+### clothes bag
+insolated underwear
+briefs
+socks, dry, long
+thin fleece shirt, with pocket, 1 oz of alcohol fuel
+OR insulated shirt
+
+Monte-Bell U.L. Down T
+
+
+
+### group jazz
+tea candle lantern, with 1 tea candle per night, homemade foam shield for glass.
+
+stansport camp stool amazon.com with folks
 
 
 
