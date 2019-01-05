@@ -45,7 +45,8 @@ Enigma-H.E. Custom (topquilt) | 20 F | 18.28 oz | $375 | 950 | Regular/Regular
 Enigma-H.E. Custom (topquilt) | 10 F | 21.01 oz | $410 | 950 | Regular/Regular
 Enigma-H.E. Custom (topquilt) | 0 F | 23.72 oz | $445 | 950 | Regular/Regular
 [JackRBetter High Sierra Sniveller topquilt](http://www.jacksrbetter.com/shop/high-sierra-sniveller/) | 5-10 F | 29 oz | $310 | 800 | Regular
-
+Sierra Sniveller topquilt | 20-25 F | 24 oz | $270 | 800 | Regular
+Sierra Sniveller topquilt | 20-25 F | 26 oz | $290 | 800 | 2 oz 
 
 
 
