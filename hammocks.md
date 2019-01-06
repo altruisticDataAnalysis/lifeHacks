@@ -11,6 +11,7 @@ Started a new [Ultralight Backpacking YouTube Playlist](https://www.youtube.com/
 
 Product | weight | cost
 ---------------------------- | -------- | --------
+[**Lesovik- Ultralight 2 Chili**](http://en.lesovik.eu/shop/ultralight-2-chili/) | 5.6 oz (118" x 57") | $113
 [Hummingbird Hammock Single+](https://hummingbirdhammocks.com) | 7 oz | $95
 Hummingbird Hammock Tree Straps | 2.3 oz | included
 Hummingbird Hammock Extension 6' x 2 | .75 oz | $20
