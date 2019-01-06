@@ -35,8 +35,8 @@ Dream Hammock Darien RTS 1.6 oz HyperD Diamond Ripstop + Netting | 16 oz | $110
 ## Tarps
 Product | weight | size |  cost
 ---------------------------- | -------- | -------- | -------
+[**HG Dyneema (Cuben) Tarps**](https://www.hammockgear.com/dyneema-fiber-standard-tarp-with-doors/)  | 7.28 oz | 132" x 102'| $315
 [Hummingbird Hammocks Pelican Rain Tarp](https://hummingbirdhammocks.com/shop/pelican-rain-tarp/) | 12.8 oz | 137" x 112" | $170
-[HG Dyneema (Cuben) Tarps](https://www.hammockgear.com/dyneema-fiber-standard-tarp-with-doors/)  | 7.28 oz | 132" x 102'| $315
 [Goosamer Gear Twinn Tarp](https://www.gossamergear.com/collections/all/products/twinn-tarp) | 8.5 - 9.5 oz | 117" x 100" | $155
 
 ## Accessories
