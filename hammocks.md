@@ -6,6 +6,8 @@ Started a new [Ultralight Backpacking YouTube Playlist](https://www.youtube.com/
 
 [Dutchware kits for stoves, bug nets, and everything](https://dutchwaregear.com/product-category/myg/diy-kits/)
 
+[Dutchware no-see-um 54"x36", 1 oz, $3.25 DIY](https://dutchwaregear.com/product/nano-noseeum/)
+
 [Hammock Forums.net](https://www.hammockforums.net)
 
 
