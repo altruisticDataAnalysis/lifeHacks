@@ -7,13 +7,22 @@
 Started a new [Ultralight Backpacking YouTube Playlist](https://www.youtube.com/playlist?list=PLiSIio-GNWPds4JnxD_VzYtpf8B5aiCiP)
 
 
-## Hammocks
+## Hammock
 
 By weight Hummingbird Hammocks seem to beat DutchMade Hammocks.
 
-[Hummingbird Hammocks](https://hummingbirdhammocks.com)
+Product | weight | cost
+---------------------------- | -------- | --------
+[Hummingbird Hammock Single+](https://hummingbirdhammocks.com) | 7 oz | $95
+Hummingbird Hammock Tree Straps | 2.3 oz | included
+Hummingbird Hammock Extension 6' x 2 | .75 oz | $20
+Hummingbird Hammock Warbler Bug Net | 8 oz | $40
+[HG Hammock Standard Hexon 1.0](https://www.hammockgear.com/standard-hammock-dark-olive-hexon-1-0/) | 7.68 oz | $30
+HG 9' Daisy Chain Straps | 12.5 oz | $15
+HG Amsteel Whoopie Sling | .775 oz ea | $7 x 2
+HG Amsteel Ridgeline Dogbone | .55 oz | $7 
+HG Zing-It Dogbone | .18 oz | 
 
-[https://www.hammockgear.com/](https://www.hammockgear.com)
 
 ## Tarps
 
@@ -25,7 +34,6 @@ By weight Hummingbird Hammocks seem to beat DutchMade Hammocks.
 
 [tothewoods.net](www.tothewoods.net) for instructions on making a hammock, 15 oz
 
-## Bug nets
 
 ## Accessories
 
