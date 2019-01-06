@@ -2,9 +2,11 @@
 
 ## Online resources
 
-[Hammock Forums.net](https://www.hammockforums.net)
-
 Started a new [Ultralight Backpacking YouTube Playlist](https://www.youtube.com/playlist?list=PLiSIio-GNWPds4JnxD_VzYtpf8B5aiCiP)
+
+[Dutchware kits for stoves, bug nets, and everything](https://dutchwaregear.com/product-category/myg/diy-kits/)
+
+[Hammock Forums.net](https://www.hammockforums.net)
 
 
 ## Hammock
@@ -12,7 +14,7 @@ Started a new [Ultralight Backpacking YouTube Playlist](https://www.youtube.com/
 Product | weight | cost
 ---------------------------- | -------- | --------
 [**Lesovik- Ultralight 2 Chili**](http://en.lesovik.eu/shop/ultralight-2-chili/) | 5.6 oz (118" x 57") | $113
-[Hummingbird Hammock Single+](https://hummingbirdhammocks.com) | 7 oz | $95
+[Hummingbird Hammock Single+](https://hummingbirdhammocks.com) | 7 oz (116" x 63")| $95
 Hummingbird Hammock Tree Straps | 2.3 oz | included
 Hummingbird Hammock Extension 6' x 2 | .75 oz | $20
 Hummingbird Hammock Warbler Bug Net | 8 oz | $40
