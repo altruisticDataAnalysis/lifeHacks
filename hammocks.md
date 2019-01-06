@@ -20,8 +20,9 @@ Hummingbird Hammock Warbler Bug Net | 8 oz | $40
 [HG Hammock Standard Hexon 1.0](https://www.hammockgear.com/standard-hammock-dark-olive-hexon-1-0/) | 7.68 oz | $30
 HG 9' Daisy Chain Straps | 12.5 oz | $15
 HG Amsteel Whoopie Sling | .775 oz ea | $7 x 2
-HG Amsteel Ridgeline Dogbone | .55 oz | $7 
-HG Zing-It Dogbone | .18 oz | 
+HG Amsteel Ridgeline, Dogbone | .55 oz | $7 
+HG Zing-It Ridgeline, Dogbone | .18 oz | $8
+HG Hexon 1.6 zippered bug net| 17.85 oz | $115
 
 
 ## Tarps
