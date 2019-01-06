@@ -24,11 +24,11 @@ Premium Pheonix (underquilt) |  0 F | 20.07 oz | +$18/oz ($302-$356) | 950 | 1-4
 [Premium Burrow (topquilt)](https://www.hammockgear.com/premium-burrow/) | 30 F | 14.91 oz | $302 | 950 | Standard
 Premium Burrow (topquilt) | 20 F | 17.80 oz | $329 | 950 | Standard
 Premium Burrow (topquilt) | 10 F | 19.82 oz | $362 | 950 | Standard
-**Premium Burrow (topquilt)** | 0 F | 21.67 oz | $389 | 950 | Standard
+Premium Burrow (topquilt) | 0 F | 21.67 oz | $389 | 950 | Standard
 Premium Burrow (topquilt) | 0 F | 22.67-25.67 oz | +$18/oz ($407-$461) | 950 | 1-4 oz
 [Revolt Custom (underquilt)](https://enlightenedequipment.com/revolt-custom/) | 30 F | 13.12 oz | $290 | 950 | Regular 65"
 Revolt Custom (underquilt) | 20 F | 15.33 oz | $320 | 950 | Regular 65"
-**Revolt Custom (underquilt)** | 10 F | 17.78 oz | $355 | 950 | Regular 65"
+Revolt Custom (underquilt) | 10 F | 17.78 oz | $355 | 950 | Regular 65"
 Revolt Custom (underquilt) | 0 F | 20.24 oz | $385 | 950 | Regular 65"
 [Enlightened Equipment- Enigma (topquilt)](https://support.enlightenedequipment.com/hc/en-us/articles/115002191668-Enigma)  | 30 F | 16.33 oz | $355 | 950 | Standard
 Enigma Custom (topquilt) | 20 F | 19.25 oz | $395 | 950 | Standard
