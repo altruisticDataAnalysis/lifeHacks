@@ -10,7 +10,7 @@ hammock, guylines, stakes, rain fly, bug net, under blanket
 
 rain jacket, rain pants, warm gloves, waterproof gloves/mitts
 
-stove, fuel (tablet or alcohol), stormproof matches, mini lighter, pot, spork, 1" x 2" sponge
+stove, fuel (tablet or alcohol), stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spork, 1" x 2" sponge
 
 bear rope
 
@@ -85,7 +85,7 @@ whistle
 
 marking tape for trail sign
 
-dermatone sunscreen for face
+sunscreen for face in mini-dropper bottle
 
 blistoban blister pad
 
