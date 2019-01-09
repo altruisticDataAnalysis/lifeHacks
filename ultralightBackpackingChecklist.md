@@ -8,7 +8,7 @@ backpack, pack cover, trekking poles
 
 hammock, guylines, stakes, rain fly, bug net, under blanket
 
-rain jacket, rain pants, warm gloves, waterproof gloves/mitts
+rain jacket, rain pants, [warm gloves](https://www.rei.com/product/136766/rei-co-op-polartec-power-stretch-gloves), [waterproof gloves/mitts](https://www.rei.com/product/136770/rei-co-op-minimalist-gtx-mittens)
 
 stove, fuel (tablet or alcohol), stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spork, 1" x 2" sponge
 
