@@ -6,7 +6,7 @@ map, compass, permit, extra lighter, reading glasses, extra headlamp battery, ca
 
 backpack, pack cover, trekking poles
 
-hammock, guylines, stakes, rain fly, bug net, under blanket
+hammock, guylines, stakes, rain fly, bug net, under blanket, snakeskins (mountain goat gear) , dutch flys for tarp (smaller than wasps), d-ring, 
 
 rain jacket, rain pants, [warm gloves](https://www.rei.com/product/136766/rei-co-op-polartec-power-stretch-gloves), [waterproof gloves/mitts](https://www.rei.com/product/136770/rei-co-op-minimalist-gtx-mittens)
 
