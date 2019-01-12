@@ -4,20 +4,13 @@
 
 map, compass, permit, extra lighter, reading glasses, extra headlamp battery, car key, id, 
 
-backpack, pack cover, trekking poles
+backpack, trekking poles
 
-hammock, guylines, stakes, rain fly, bug net, under blanket, snakeskins (mountain goat gear) , dutch flys for tarp (smaller than wasps), d-ring, 
+hammock, guylines, stakes, rain fly, bug net, under quilt, snakeskin, dutch flys for tarp, **d-ring** 
 
 rain jacket, rain pants, [warm gloves](https://www.rei.com/product/136766/rei-co-op-polartec-power-stretch-gloves), [waterproof gloves/mitts](https://www.rei.com/product/136770/rei-co-op-minimalist-gtx-mittens)
 
-stove, fuel (tablet or alcohol), stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spork, 1" x 2" sponge
-
-bear rope
-
-water filter, purification tablets,
-soft-sided water bottles
-
-sunscreen
+sunscreen, aloe, deet
 bandana
 
 first aid kit- 
@@ -36,11 +29,11 @@ hiking paints (1 pair)
 sun hat,
 sun gloves,
 
-warm hat, wool socks, puffy jacket
+warm hat, wool socks, puff jacket
 
 zip-top bags (varied sizes for waste, food, etc)
 hand sanitizer, 
-toothpaste or baking soda, 
+toothpaste dots or baking soda, 
 toothbrush cut in half, 
 small piece of biodegradable soap, 
 two biodegradable baby wipes per day (dried), 
@@ -48,54 +41,29 @@ cut up paper towel as TP (zip lock bag to pack out),
 deuce trowel
 
 
+stove, fuel (tablet or alcohol), stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spoon, 1" x 2" sponge
+
+bear rope
+
+water filter, purification tablets,
+soft-sided water bottles
+
+
 ## Shug's Pack Load for 30 to 45 F Wet, Windy and Cold Trip
 
 [YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
 
-Hammock
-Underquilt
-Topquilt
-
-OR outdoor research gators
-
-soft plastic bottles
-
-platypus
-
-ula gravity pro
-
-sawyer 3 in 1 filter
-
-### cook kit 1 lb
-
-titanium pot
-
-lighter
-
-
-### misc
-
-Coghlans, digital compass
-
-clevelandkydex.com knife
-
-skin lube in a small container
+### misc things
 
 whistle
 
 marking tape for trail sign
 
-sunscreen for face in mini-dropper bottle
-
 blistoban blister pad
-
-emergency water tabs
 
 compass
 
 gorilla tape
-
-
 
 ### poop pack
 short toothbrush
@@ -105,7 +73,7 @@ TP,
 wet ones
 hand sanitizer
 ibuprofen
-trowel
+deuce trowel
 
 petzl tikka headlamp
 
@@ -121,9 +89,7 @@ beanie
 
 manzella windstopper gloves
 
-balaclava
-
-wind pants 2 oz
+**balaclava**
 
 waterproofing for cell phone
 
@@ -133,15 +99,11 @@ reflectix at home despot 2'^2
 
 wind running shirt, ah yeah! love it.
 
-cuben fiber pack cover 1.5 oz
+ula **rain proof mits**
 
-ula rain proof mits
+rain pants, don't be w/o them
 
-fleece
-
-outdoor research palladin jacket (rain)
-
-OR rain pants with long zipper up leg, don't be w/o them
+## FOOD
 
 
 ### lunch bag
@@ -166,16 +128,13 @@ insolated underwear
 briefs
 socks, dry, long
 thin fleece shirt, with pocket, 1 oz of alcohol fuel
-OR insulated shirt
+insulated shirt
 
-Monte-Bell U.L. Down T
-
-
+Monte-Bell U.L. Down Jacket
 
 ### group jazz
 tea candle lantern, with 1 tea candle per night, homemade foam shield for glass.
 
-stansport camp stool amazon.com with folks
 
 
 
