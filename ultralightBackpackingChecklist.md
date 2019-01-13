@@ -81,8 +81,7 @@ petzl headlamp
 
 [BlackRock Hadron](https://www.blackrockgear.com/product-page/blackrock-hadron) large down hat
 [BlackRock Foldback Mitts](https://www.blackrockgear.com/product-page/foldback-mitts-in-silicone) medium 
-
-wristies.com wrist warmers
+[Tibetan Wristies and Gloves](https://one-world-is-enough.com/Hand_knitted_Fleece_Lined%20Fair_Trade_Wool_Black_Wrist_Warmers_Arm_Warmers_Wristies)
 
 **gloves**
 
