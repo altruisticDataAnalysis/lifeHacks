@@ -57,7 +57,7 @@ soft-sided water bottles
 
 whistle
 
-marking tape for trail sign
+marking tape for trail signs
 
 blistoban blister pad
 
@@ -75,21 +75,18 @@ hand sanitizer
 ibuprofen
 deuce trowel
 
-petzl tikka headlamp
+petzl headlamp
 
 ### layers
 
-blackRockGear.com down beanie 23g **
+[BlackRock Hadron](https://www.blackrockgear.com/product-page/blackrock-hadron) large down hat
+[BlackRock Foldback Mitts](https://www.blackrockgear.com/product-page/foldback-mitts-in-silicone) medium 
 
 wristies.com wrist warmers
 
-possum down fingerless gloves
+**gloves**
 
 beanie
-
-manzella windstopper gloves
-
-**balaclava**
 
 waterproofing for cell phone
 
@@ -107,10 +104,9 @@ rain pants, don't be w/o them
 
 
 ### lunch bag
-www.PackitGourmet.com
   hummus packs
   peanut butter packs
-  Texas State Fair Chili
+  chili
   2 paper towels
   
 
@@ -121,13 +117,11 @@ madaglia doro espresso coffee in baggies, twist tie, cut excess plastic
 chocolate disk
 paper towels
 
-trash compactor bag as backpack liner,
-
 ### clothes bag
 insolated underwear
-briefs
+briefs 1 extra
 socks, dry, long
-thin fleece shirt, with pocket, 1 oz of alcohol fuel
+1 oz of alcohol fuel
 insulated shirt
 
 Monte-Bell U.L. Down Jacket
