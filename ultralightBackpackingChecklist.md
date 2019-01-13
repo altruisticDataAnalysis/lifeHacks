@@ -65,7 +65,7 @@ compass
 
 gorilla tape
 
-### poop pack
+### poo pack
 short toothbrush
 floss,
 toothpaste dots,
@@ -91,8 +91,6 @@ reflectix at home despot 2'^2
 3 mil plastic to put pack on
 
 wind running shirt, ah yeah! love it.
-
-ula **rain proof mits**
 
 rain pants, don't be w/o them
 
