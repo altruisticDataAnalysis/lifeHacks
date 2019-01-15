@@ -1,10 +1,8 @@
 # Ultralight Backpacking 
 
-## Biggies
-
 map, compass, permit, extra lighter, reading glasses, car key, id, 
 
-backpack, trekking poles
+backpack, trekking poles, **fly rod, reel**
 
 hammock, guylines, stakes, rain fly, bug net, under quilt, snakeskin, dutch flys for tarp, **d-ring** 
 
@@ -17,7 +15,7 @@ waterproofing for cell phone,
 zip-top bags (varied sizes for waste, food, etc)
 
 
-## clothes bag
+## CLOTHES BAG
 
 trail-running shoes, 
 running shorts,
@@ -67,14 +65,14 @@ Black Bean Soup
 Curry Lentil
 Cashews
 
-### lunch bag
+### First Lunch Bag
 
 hummus packs
 peanut butter packs
 chili
 2 paper towels
   
-### breakfast bag
+### First Breakfast Bag
 
 pancakes, syrup, butter
 oatmeal
@@ -83,7 +81,7 @@ chocolate disk
 paper towels
 
 
-## hygiene bag
+## Hygiene Bag
 
 toothbrush cut in half, 
 toothpaste dots or baking soda, 
@@ -97,10 +95,10 @@ small piece of biodegradable soap,
 
 ## Shug's Suggestions
 [YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
-**reflectix at home despot 2'^2
-whistle
-marking tape for trail signs
-3 mil plastic to put pack on**
+**reflectix at home despot 2'^2,
+whistle,
+marking tape for trail signs,
+3 mil plastic to put pack on,**
 tea candle lantern, with 1 tea candle per night, homemade foam shield for glass.
 
 
