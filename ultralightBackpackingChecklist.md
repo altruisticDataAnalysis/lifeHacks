@@ -1,127 +1,110 @@
 # Ultralight Backpacking 
 
-## Checklist
+## Biggies
 
-map, compass, permit, extra lighter, reading glasses, extra headlamp battery, car key, id, 
+map, compass, permit, extra lighter, reading glasses, car key, id, 
 
 backpack, trekking poles
 
 hammock, guylines, stakes, rain fly, bug net, under quilt, snakeskin, dutch flys for tarp, **d-ring** 
 
-rain jacket, rain pants, [warm gloves](https://www.rei.com/product/136766/rei-co-op-polartec-power-stretch-gloves), [waterproof gloves/mitts](https://www.rei.com/product/136770/rei-co-op-minimalist-gtx-mittens)
+knife, 
+bear bag and **string and rock sack**, 
+water filter, 
+soft-sided water bottles, 
+petzl headlamp, **extra headlamp battery**, 
+waterproofing for cell phone, 
+zip-top bags (varied sizes for waste, food, etc)
 
-sunscreen, aloe, deet
-bandana
 
-first aid kit- 
-blister pads, gauze pads, bandages, 
-antibiotic oitment packets, pain-relief pills, 
-razor blade, duct tape wrapped around a water bottle, 
-gear-repair tape (in case you get a hole in your pack or sleeping bag)
-
-paper and pencil
+## clothes bag
 
 trail-running shoes, 
-synthetic or wool t-shirt, 
-silk long underwear,
 running shorts,
 hiking paints (1 pair)
-sun hat,
-sun gloves,
-
-warm hat, wool socks, puff jacket
-
-zip-top bags (varied sizes for waste, food, etc)
-hand sanitizer, 
-toothpaste dots or baking soda, 
-toothbrush cut in half, 
-small piece of biodegradable soap, 
-two biodegradable baby wipes per day (dried), 
-cut up paper towel as TP (zip lock bag to pack out),
-deuce trowel
-
-
-stove, fuel (tablet or alcohol), stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spoon, 1" x 2" sponge
-
-bear rope
-
-water filter, purification tablets,
-soft-sided water bottles
-
-
-## Shug's Pack Load for 30 to 45 F Wet, Windy and Cold Trip
-
-[YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
-
-### misc things
-
-whistle
-
-marking tape for trail signs
-
-blistoban blister pad
-
-compass
-
-gorilla tape
-
-### poo pack
-short toothbrush
-floss,
-toothpaste dots,
-TP,
-wet ones
-hand sanitizer
-ibuprofen
-deuce trowel
-
-petzl headlamp
-
-### hat and gloves
-
-[BlackRock Hadron](https://www.blackrockgear.com/product-page/blackrock-hadron) large down hat
-[BlackRock Foldback Mitts](https://www.blackrockgear.com/product-page/foldback-mitts-in-silicone) medium 
-[Tibetan Wristies and Gloves](https://one-world-is-enough.com/Hand_knitted_Fleece_Lined%20Fair_Trade_Wool_Black_Wrist_Warmers_Arm_Warmers_Wristies)
+synthetic t-shirt, 
+briefs 1 extra
+socks, dry, long
+silk long underwear
+blue long sleeve shirt
+Montbell U.L. Down Jacket
+rain jacket, versalite pants, 
 beanie- [Wooly](https://www.blackrockgear.com/product-page/charcoal-wooly)
-
-waterproofing for cell phone
-
-reflectix at home despot 2'^2
-
-3 mil plastic to put pack on
-
 wind running shirt, ah yeah! love it.
+bandana
 
-rain pants, don't be w/o them
+[Black Rock Foldable Mitts](https://www.blackrockgear.com/product-page/foldback-mitts-in-silicone), 
+[Original BlackRock Down Hat](https://www.blackrockgear.com/product-page/original-blackrock-hat-1)
+
+**sun hat...**
+
+## Ditty Bag
+
+micro bottles of:
+sunscreen, aloe, deet, arnica
+gear-repair tape (in case you get a hole in your pack or sleeping bag)
+paper and pencil
+
+### First Aid Kit
+
+blister pads, gauze pads, bandages, 
+antibiotic oitment packets, ibuprofen, 
+**purification tablets**,
+
 
 ## FOOD
 
+Food to share
+
+### Cooking
+
+titanium stove, 1 oz of ethanol fuel/ day, stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spoon, 1" x 2" sponge, titanium pot
+
+### Rainbow Grocery
+
+Split Pea Soup
+Black Bean Soup
+Curry Lentil
+Cashews
 
 ### lunch bag
-  hummus packs
-  peanut butter packs
-  chili
-  2 paper towels
-  
 
+hummus packs
+peanut butter packs
+chili
+2 paper towels
+  
 ### breakfast bag
+
 pancakes, syrup, butter
 oatmeal
 madaglia doro espresso coffee in baggies, twist tie, cut excess plastic
 chocolate disk
 paper towels
 
-### clothes bag
-insolated underwear
-briefs 1 extra
-socks, dry, long
-1 oz of alcohol fuel
-insulated shirt
 
-Monte-Bell U.L. Down Jacket
+## hygiene bag
 
-### group jazz
+toothbrush cut in half, 
+toothpaste dots or baking soda, 
+floss,
+deuce trowel
+TP, cut up paper towel as TP (zip lock bag to pack out),
+two biodegradable baby wipes per day (dried), 
+hand sanitizer,
+small piece of biodegradable soap, 
+
+
+## Shug's Suggestions
+[YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
+**reflectix at home despot 2'^2
+whistle
+marking tape for trail signs
+3 mil plastic to put pack on**
 tea candle lantern, with 1 tea candle per night, homemade foam shield for glass.
+
+
+
 
 
 
