@@ -1,14 +1,15 @@
 # Ultralight Backpacking 
 
-**map**, compass, **permit, extra lighter**, reading glasses, car key, id, 
+**map**, compass, **permit**, reading glasses, car key, id, 
 
 backpack, trekking poles, **fly rod, reel**, flies, leader, backing, flyline, ants
 
 hammock, guylines, stakes, rain fly, bug net, underquilt, top quilt, snakeskin, dutch flys for tarp, **d-rings** 
 
 knife, 
-bear bag and **string and rock sack**, 
+bear bag and **zingIt and rock sack**, 
 water filter, 
+**purification tablets**,
 soft-sided water bottles, 
 petzl headlamp, 
 waterproofing for cell phone, 
@@ -40,14 +41,13 @@ bandana
 
 micro bottles of:
 sunscreen, aloe, **deet, arnica**
-**gear-repair tape** (in case you get a hole in your pack or sleeping bag)
+gear-repair tape (in case you get a hole in your pack or sleeping bag)
 **paper**
 
 ### First Aid Kit
 
 **blister pads, gauze pads**, bandages, 
-**antibiotic oitment packets, ibuprofen**,
-**purification tablets**,
+**antibiotic oitment packets, alohol wipes, ibuprofen**,
 
 
 ## FOOD
@@ -89,14 +89,13 @@ floss,
 deuce trowel
 TP, cut up paper towel as TP (zip lock bag to pack out),
 two biodegradable baby wipes per day (dried), 
-**hand sanitizer**,
 small piece of biodegradable soap, 
 
 
 ## Shug's Suggestions
 [YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
 **reflectix at home despot 2'^2,
-whistle,
+**hand sanitizer**,
 marking tape for trail signs,
 3 mil plastic to put pack on,**
 tea candle lantern, with 1 tea candle per night, homemade foam shield for glass.
