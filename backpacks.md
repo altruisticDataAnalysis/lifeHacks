@@ -2,7 +2,7 @@
 
 pack | volume (max weight) | weight | cost | notes
 -------------------------------- | -------- | --------- | -------------- | -------------
-[Gossamer Mariposa 60](https://www.gossamergear.com/collections/backpacks/products/mariposa-60-lightweight-backpack) | 60 L (35 lbs) | 30.5 oz | $225 | **This was my choice**
+[Gossamer Mariposa 60](https://www.gossamergear.com/collections/backpacks/products/mariposa-60-lightweight-backpack) | 60 L (35 lbs) | 30.5 oz (removable frame and waste belt) | $225 | **This was my choice**
 [Gossamer Quiksak 26](https://www.gossamergear.com/collections/all/products/quiksak-26-adventure-pack) | 26 L | 8.9 oz | $48 | **Also picked up one of these for the daily**
 [HyperLite Mountain Gear- 3400 Windrider](https://www.hyperlitemountaingear.com/collections/packs/products/3400-windrider) | 55+10 L (40 lbs) | 31.82 oz | $365 | medium black or white
 [Gossamer Murmur 36 Hyperlight](https://www.gossamergear.com/collections/backpacks/products/murmur-36-hyperlight-backpack) | 36 L (15-20 lbs) | 13.2 oz | $160 | 
