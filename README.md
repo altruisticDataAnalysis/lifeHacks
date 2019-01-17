@@ -1,4 +1,4 @@
-## Ultralight Backpacking, 
+## Ultralight Backpacking
 
 Combining alpine fly fishing, and minimalist hammock sheltering should be a fun pursuit this spring. 
 
