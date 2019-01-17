@@ -1,16 +1,16 @@
 # Ultralight Backpacking 
 
-map, compass, permit, extra lighter, reading glasses, car key, id, 
+**map**, compass, **permit, extra lighter**, reading glasses, car key, id, 
 
-backpack, trekking poles, **fly rod, reel**
+backpack, trekking poles, **fly rod, reel**, flies, leader, backing, flyline, ants
 
-hammock, guylines, stakes, rain fly, bug net, under quilt, snakeskin, dutch flys for tarp, **d-ring** 
+hammock, guylines, stakes, rain fly, bug net, underquilt, top quilt, snakeskin, dutch flys for tarp, **d-rings** 
 
 knife, 
 bear bag and **string and rock sack**, 
 water filter, 
 soft-sided water bottles, 
-petzl headlamp, **extra headlamp battery**, 
+petzl headlamp, 
 waterproofing for cell phone, 
 zip-top bags (varied sizes for waste, food, etc)
 
@@ -34,19 +34,19 @@ bandana
 [Black Rock Foldable Mitts](https://www.blackrockgear.com/product-page/foldback-mitts-in-silicone), 
 [Original BlackRock Down Hat](https://www.blackrockgear.com/product-page/original-blackrock-hat-1)
 
-**sun hat...**
+**sun hat, dry clean**
 
 ## Ditty Bag
 
 micro bottles of:
-sunscreen, aloe, deet, arnica
-gear-repair tape (in case you get a hole in your pack or sleeping bag)
-paper and pencil
+sunscreen, aloe, **deet, arnica**
+**gear-repair tape** (in case you get a hole in your pack or sleeping bag)
+**paper**
 
 ### First Aid Kit
 
-blister pads, gauze pads, bandages, 
-antibiotic oitment packets, ibuprofen, 
+**blister pads, gauze pads**, bandages, 
+**antibiotic oitment packets, ibuprofen**,
 **purification tablets**,
 
 
@@ -56,7 +56,7 @@ Food to share
 
 ### Cooking
 
-titanium stove, 1 oz of ethanol fuel/ day, stormproof matches, mini lighter, fire starter (lint, vasoline in baggie) pot, spoon, 1" x 2" sponge, titanium pot
+titanium stove, 1 oz of ethanol fuel/ day, **stormproof matches**, **mini lighter**, **fire starter (lint, vasoline in baggie)**, spoon, **1" x 2" sponge**, titanium pot
 
 ### Rainbow Grocery
 
@@ -67,29 +67,29 @@ Cashews
 
 ### First Lunch Bag
 
-hummus packs
+**hummus packs
 peanut butter packs
-chili
+dry chili**
 2 paper towels
   
 ### First Breakfast Bag
 
-pancakes, syrup, butter
+**pancakes**, syrup, butter
 oatmeal
-madaglia doro espresso coffee in baggies, twist tie, cut excess plastic
-chocolate disk
+**madaglia doro espresso coffee in baggies**, twist tie, cut excess plastic
+chocolate disks
 paper towels
 
 
 ## Hygiene Bag
 
-toothbrush cut in half, 
-toothpaste dots or baking soda, 
+**toothbrush cut in half, 
+toothpaste dots or baking soda**, 
 floss,
 deuce trowel
 TP, cut up paper towel as TP (zip lock bag to pack out),
 two biodegradable baby wipes per day (dried), 
-hand sanitizer,
+**hand sanitizer**,
 small piece of biodegradable soap, 
 
 
