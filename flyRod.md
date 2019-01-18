@@ -7,4 +7,3 @@
 Model & Diameter| Spool Width	| Weight(oz.)	| Line Weights	| Line Capacity |	Yards Micron Backing	| (lbs.) Micron Backing	| Reel Price	| Spool Price
 -------- | -------- | -------- | -------- | -------- | -------- | -------- | -------- | --------   
 B 0-1 (2.7″) |	.75″	| 2.54	| 0-1	| WF-0-F / WF-1-F	| 40 yd / 30 yd	| 20 lb	| $220.00	| $110.00
-B 2-3 (2.95″)	| .85″	| 2.72	| 2-3	| WF-2-F / WF-3-F	| 40 yd / 30 yd	| 20 lb	| $230.00	| $115.00
