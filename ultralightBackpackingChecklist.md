@@ -2,7 +2,7 @@
 
 **map**, compass, **permit**, reading glasses, car key, id, 
 
-backpack, trekking poles, **fly rod, reel**, flies, leader, backing, flyline, ants
+backpack, trekking poles, fly rod, **reel**, flies, leader, backing, flyline, ants
 
 hammock, guylines, stakes, rain fly, bug net, underquilt, top quilt, snakeskin, dutch flys for tarp, **d-rings** 
 
@@ -25,7 +25,8 @@ synthetic t-shirt,
 briefs 1 extra
 socks, dry, long
 silk long underwear
-blue long sleeve shirt
+blue long sleeve shirt,
+wooly, Black Rock hat, mitts
 Montbell U.L. Down Jacket
 rain jacket, versalite pants, 
 beanie- [Wooly](https://www.blackrockgear.com/product-page/charcoal-wooly)
