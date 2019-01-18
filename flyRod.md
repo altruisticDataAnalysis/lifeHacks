@@ -1,6 +1,6 @@
 [https://www.sageflyfish.com/product/freshwater/dart](https://www.sageflyfish.com/product/freshwater/dart)
 
-176-3 DART	SNUB-NOSE, HALF WELLS	7ft 6in	1	32in	1 7/8oz
+Sage Dart, Snub-Nose, Half Wells, 7ft 6in length, 0 weight, 32 in tube, rod weighs 1 and 7/8 oz
 
 [https://galvanflyreels.com/product/brookie/](https://galvanflyreels.com/product/brookie/)
 
