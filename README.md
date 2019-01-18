@@ -13,9 +13,10 @@ Updated some gear. Still need to buy a new fly rod.
 
 ### Outstanding aquisitions:
 
-**fly rod, reel**, 
+reel
 **d-rings** 
 **stormproof matches**, **mini lighter**,  
+**mitts**
 
 ### Optional pack items:
 
