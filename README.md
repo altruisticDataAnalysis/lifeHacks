@@ -1,3 +1,9 @@
+## Registered for Big Sur Trail Marathon
+
+26.2 miles is not the scary bit. It's the 5,576' elevation change over the marathon course.
+
+![bigSurMarathon](bigSurMarathon.png)
+
 ## Ultralight Backpacking
 
 Combining alpine fly fishing, and minimalist hammock sheltering should be a fun pursuit this spring. 
