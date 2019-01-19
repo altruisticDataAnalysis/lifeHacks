@@ -1,9 +1,10 @@
-Original BlackRock Hat
-BlackRock Woolyj
+## Black Rock
+Original Hat
+Wooly
 
 Ethanol (Amazon)
 
-HammockGear
+## HammockGear
 25' shock cord
 dutch clips
 dyneema fiber tarp
@@ -14,8 +15,8 @@ Amsteel Whoopie Slings
 Dogbone (Zing-It Ridgeline)
 Tarp Flyz
 
-Lesovik Hammock
+## Lesovik Hammock
 
-Enlightened Equipment
+## Enlightened Equipment
 Enigma-H.E. Custom
 Revolt Down
