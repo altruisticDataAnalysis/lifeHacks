@@ -26,7 +26,8 @@ reel
 
 ### Boots
 
-[Warfield and Grand Sout Boot (Chukkas)](https://www.dsw.com/en/us/product/warfield-and-grand-scout-boot/431390?activeColor=001)
+[Warfield and Grand Sout Boot (Chukkas)](https://www.dsw.com/en/us/product/warfield-and-grand-scout-boot/431390?activeColor=001) may be made waterproof, good looking
+[UGG Freamon Waterproof](https://www.zappos.com/p/ugg-freamon-waterproof-grizzly/product/8916094/color/237127) 9 oz per shoe
 Wool socks
 
 ### Optional pack items:
