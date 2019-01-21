@@ -1,4 +1,4 @@
-# Ultralight Backpacking Checklist
+Checklist For Ultralight Backpacking
 
 **map**, compass, **permit**, reading and sun glasses, car key, id, 
 
