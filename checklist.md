@@ -14,7 +14,7 @@ petzl headlamp,
 zip-top bags (varied sizes for waste, food, clothes wash, etc)
 
 
-## CLOTHES BAG
+## Clothes Bag
 
 trail-running shoes, 
 hiking wool socks (and the long sleeper pair),
