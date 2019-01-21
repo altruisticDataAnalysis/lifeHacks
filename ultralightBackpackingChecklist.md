@@ -6,13 +6,11 @@ backpack, trekking poles, fly rod, **reel**, flies, leader, backing, flyline, an
 
 hammock, guylines, stakes, rain fly, bug net, underquilt, top quilt, snakeskin, dutch flys for tarp, **d-rings**
 
-knife, 
+blade, 
 bear bag and **zingIt and rock sack**, 
 water filter, 
-**purification tablets**,
 soft-sided water bottles, 
 petzl headlamp, 
-waterproofing for cell phone, 
 zip-top bags (varied sizes for waste, food, clothes wash, etc)
 
 
@@ -36,75 +34,7 @@ bandana.
 
 ## Ditty Bag
 
-Gossamer Gear micro bottles of:
-sunscreen, aloe, **deet, arnica**, 
-dr bronners, bleach, **Gossamer Gear lip balm**
+First Aid Kit, Dinky Stuff, Repair Kit, Cook kit, Hygeine Bag
 
-gear-repair tape (in case you get a hole in your pack or sleeping bag),
-**paper**
-
-### First Aid Kit
-
-**blister pads, gauze pads**, bandages, 
-**antibiotic oitment packets, alohol wipes, ibuprofen**,
-
-
-## FOOD
-
-Food to share
-
-### Cooking
-
-titanium stove, 1 oz of ethanol fuel/ day, **stormproof matches**, **mini lighter**, **fire starter (lint, vasoline in baggie)**, spoon, **1" x 2" sponge**, titanium pot
-
-### Rainbow Grocery
-
-Split Pea Soup
-Black Bean Soup
-Curry Lentil
-Cashews
-
-### First Lunch Bag
-
-**hummus packs
-peanut butter packs
-dry chili**
-2 paper towels
-  
-### First Breakfast Bag
-
-**pancakes**, syrup, butter
-oatmeal
-**madaglia doro espresso coffee in baggies**, twist tie, cut excess plastic
-chocolate disks
-paper towels
-
-
-## Hygiene Bag
-
-**toothbrush cut in half, 
-toothpaste dots or baking soda**, 
-floss,
-deuce trowel
-TP, cut up paper towel as TP (zip lock bag to pack out),
-two biodegradable baby wipes per day (dried), 
-small piece of biodegradable soap, 
-
-
-## Shug's Suggestions
-[YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
-**reflectix at home despot 2'^2,
-**hand sanitizer**,
-marking tape for trail signs,
-3 mil plastic to put pack on,**
-tea candle lantern, with 1 tea candle per night, homemade foam shield for glass.
-
-
-
-
-
-
-
-
-
+## Food
 
