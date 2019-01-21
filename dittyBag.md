@@ -1,42 +1,57 @@
 ## Ditty Bag
 
+#### References
 
-### Cleaning
+Mike Clelland Ultralight Backpacking guru and author
 
-**soap**, 
-**germX hand sanitizer**, 
-dr bronners, 
-bleach
+[https://youtu.be/7yIjXGXcWI0](https://youtu.be/7yIjXGXcWI0)
+[https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be](https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be)
+
+### Dinky Stuff
+
+Gossamer Gear micro bottles (4+3+4)  of:
+sunscreen, aloe, **deet, arnica**, 
+**Gossamer Gear lip balm**
+Aquamira A, B, and mix containers,
+dr bronners, bleach, **hand sanitizer**, 
+single edge razor blade in cardboard, gum band,
+
+**soap**
+toothpaste dots dried on plate, dusted with baking soda, chewed prior to use with half toothbrush,
 
 
 ### First Aid Kit
 
-**2-inch ace bandage** (for ankle sprain),
-**gauze pads**, 
-**antibiotic oitment packets, alohol wipes, ibuprofen 1000mg/day**,
-tylenol pm, pepto, ear plugs, allergy med,
-bandaids small to big,
-moleskin
-
+leukotape (roll) cut into 4 inch bands and put on silicone release paper from a mailing label
+small roll of athletic tape,
+rubber gloves,
+various bandaids,
+steri-strips, butterfly closure,
+4x4 Gauze pads (2),
+small roll of gauze,
+aspirin (pain),
+ibuprofin 1000 mg/day,
+immodium,
+allergy med,
+moleskin,
+antibiotic oitment packets,
+hydropel
 
 
 ### Repair Bits
 
-Extra battery for headlamp,
-5 stormproof matches and striker,
+nylon ripstop fabric tape,
+tyvek tape cut to patches with rounded edges on silicone release paper,
+sewing kit, safety pins, silk thread, needle,
+sil-fix, 
+string,
+krazy glue (tiny)
+
+
+### Cook kit
+
+paper book of matches,
 mini-lighter,
-2 feet of duct tape wrapped on self,
-crazy glue (tiny),
-silk thread sewing kit, safety pins,
-zip ties (4)
-
-
-### Miscellaneae
-
-Gossamer Gear micro bottles of:
-sunscreen, aloe, **deet, arnica**, 
- **Gossamer Gear lip balm**
-
-gear-repair tape (in case you get a hole in your pack or sleeping bag),
-**paper**
-
+alcohol in 500 ml platypus with squirt lid (Sriracha) + plastic bag,
+aluminum foil as windscreen
+[andrewskurka.com](andrewskurka.com)
