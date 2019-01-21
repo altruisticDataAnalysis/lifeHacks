@@ -29,6 +29,9 @@ reel
 [Warfield and Grand Sout Boot (Chukkas)](https://www.dsw.com/en/us/product/warfield-and-grand-scout-boot/431390?activeColor=001) may be made waterproof, good looking
 [UGG Freamon Waterproof](https://www.zappos.com/p/ugg-freamon-waterproof-grizzly/product/8916094/color/237127) 9 oz per shoe
 Wool socks
+[UGG Leighton Waterproof](https://www.zappos.com/p/ugg-leighton-waterproof-chestnut/product/8916089/color/278) 16 oz per shoe
+[UGG Neumel Waterproog](https://www.zappos.com/p/ugg-neumel-waterproof-charcoal/product/8916106/color/275) 12 oz per shoe, wool lining
+[UGG Neumel Cheaper](https://www.backcountry.com/ugg-neumel-waterproof-boot-mens)
 
 ### Optional pack items:
 
