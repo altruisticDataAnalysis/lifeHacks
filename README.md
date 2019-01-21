@@ -27,6 +27,7 @@ reel
 ### Boots
 
 [Warfield and Grand Sout Boot (Chukkas)](https://www.dsw.com/en/us/product/warfield-and-grand-scout-boot/431390?activeColor=001)
+Wool socks
 
 ### Optional pack items:
 
