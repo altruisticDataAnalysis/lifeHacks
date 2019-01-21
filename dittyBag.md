@@ -60,10 +60,16 @@ optional: fire starter (lint, vasoline in baggie),
 
 #### References
 
-Mike Clelland Ultralight Backpacking guru and author
+Mike Clelland Ultralight Backpacking guru and author has a couple of good videos here on ditty bags:
 
 [https://youtu.be/7yIjXGXcWI0](https://youtu.be/7yIjXGXcWI0)
+
 [https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be](https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be)
+
+Cook stove alternative: 
 [andrewskurka.com](andrewskurka.com)
+
+Shug is awesome.
 [YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
 
+[This was a nice primer on ultralight backpacking from REI.](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html)
