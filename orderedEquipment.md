@@ -23,3 +23,6 @@ Tarp Flyz
 ## Enlightened Equipment
 Enigma-H.E. Custom
 Revolt Down
+
+## Lost Coast Outfitters
+**reel and flyline**
