@@ -1,10 +1,10 @@
-# Ultralight Backpacking 
+# Ultralight Backpacking Checklist
 
 **map**, compass, **permit**, reading and sun glasses, car key, id, 
 
 backpack, trekking poles, fly rod, **reel**, flies, leader, backing, flyline, ants
 
-hammock, guylines, stakes, rain fly, bug net, underquilt, top quilt, snakeskin, dutch flys for tarp, **d-rings** 
+hammock, guylines, stakes, rain fly, bug net, underquilt, top quilt, snakeskin, dutch flys for tarp, **d-rings**
 
 knife, 
 bear bag and **zingIt and rock sack**, 
@@ -13,7 +13,7 @@ water filter,
 soft-sided water bottles, 
 petzl headlamp, 
 waterproofing for cell phone, 
-zip-top bags (varied sizes for waste, food, etc)
+zip-top bags (varied sizes for waste, food, clothes wash, etc)
 
 
 ## CLOTHES BAG
@@ -38,7 +38,7 @@ bandana.
 
 Gossamer Gear micro bottles of:
 sunscreen, aloe, **deet, arnica**, 
-dr bronners, bleach, Gossamer Gear lip balm
+dr bronners, bleach, **Gossamer Gear lip balm**
 
 gear-repair tape (in case you get a hole in your pack or sleeping bag),
 **paper**
