@@ -24,6 +24,10 @@ reel
 **stormproof matches**, **mini lighter**,  
 **mitts**
 
+### Boots
+
+[Warfield and Grand Sout Boot (Chukkas)](https://www.dsw.com/en/us/product/warfield-and-grand-scout-boot/431390?activeColor=001)
+
 ### Optional pack items:
 
 **hand sanitizer**,
