@@ -4,6 +4,9 @@ Wooly
 
 Ethanol (Amazon)
 
+## Vasque
+Vertical Velocity Trail Running Shoes 20 oz total
+
 ## HammockGear
 25' shock cord
 dutch clips
