@@ -17,11 +17,11 @@ zip-top bags (varied sizes for waste, food, clothes wash, etc)
 ## CLOTHES BAG
 
 trail-running shoes, 
+hiking wool socks (and the long sleeper pair),
 running shorts,
 hiking paints (1 pair), 
 synthetic t-shirt, 
 briefs 1 extra,
-socks-long-wool, 
 silk long underwear, 
 blue long sleeve shirt,
 Black Rock [Wooly](https://www.blackrockgear.com/product-page/charcoal-wooly), 
@@ -32,7 +32,7 @@ rain jacket, Montebell Versalite pants,
 wind running shirt- ah yeah! love it, 
 bandana.
 
-## Ditty Bag
+## Ditty Bags
 
 First Aid Kit, Dinky Stuff, Repair Kit, Cook kit, Hygeine Bag
 
