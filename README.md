@@ -11,10 +11,9 @@ Updating gear...
 
 ### Outstanding aquisitions:
 
-**reel**
-**d-rings** 
+**d-rings**, 
 **mini lighter**,  
-**mitts**
+**mitts**, 
 **Hydropel**
 
 
