@@ -1,6 +1,6 @@
 # Ultralight Backpacking 
 
-**map**, compass, **permit**, reading glasses, car key, id, 
+**map**, compass, **permit**, reading and sun glasses, car key, id, 
 
 backpack, trekking poles, fly rod, **reel**, flies, leader, backing, flyline, ants
 
@@ -20,29 +20,27 @@ zip-top bags (varied sizes for waste, food, etc)
 
 trail-running shoes, 
 running shorts,
-hiking paints (1 pair)
+hiking paints (1 pair), 
 synthetic t-shirt, 
-briefs 1 extra
-socks, dry, long
-silk long underwear
+briefs 1 extra,
+socks-long-wool, 
+silk long underwear, 
 blue long sleeve shirt,
-wooly, Black Rock hat, mitts
-Montbell U.L. Down Jacket
-rain jacket, versalite pants, 
-beanie- [Wooly](https://www.blackrockgear.com/product-page/charcoal-wooly)
-wind running shirt, ah yeah! love it.
-bandana
-
-[Black Rock Foldable Mitts](https://www.blackrockgear.com/product-page/foldback-mitts-in-silicone), 
-[Original BlackRock Down Hat](https://www.blackrockgear.com/product-page/original-blackrock-hat-1)
-
-**sun hat, dry clean**
+Black Rock [Wooly](https://www.blackrockgear.com/product-page/charcoal-wooly), 
+[Original Mitts](https://www.blackrockgear.com/product-page/original-liner-mitts), and 
+[Original Down Hat](https://www.blackrockgear.com/product-page/original-blackrock-hat-1), 
+Montbell U.L. Down Jacket, 
+rain jacket, Montebell Versalite pants, 
+wind running shirt- ah yeah! love it, 
+bandana.
 
 ## Ditty Bag
 
-micro bottles of:
-sunscreen, aloe, **deet, arnica**
-gear-repair tape (in case you get a hole in your pack or sleeping bag)
+Gossamer Gear micro bottles of:
+sunscreen, aloe, **deet, arnica**, 
+dr bronners, bleach, Gossamer Gear lip balm
+
+gear-repair tape (in case you get a hole in your pack or sleeping bag),
 **paper**
 
 ### First Aid Kit
