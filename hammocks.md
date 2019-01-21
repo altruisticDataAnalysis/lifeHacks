@@ -8,6 +8,7 @@ Started a new [Ultralight Backpacking YouTube Playlist](https://www.youtube.com/
 
 [Hammock Forums.net](https://www.hammockforums.net)
 
+[tothewoods.net](www.tothewoods.net) for instructions on making a hammock, 15 oz
 
 ## Hammock
 
@@ -25,9 +26,14 @@ Product | weight | size |  cost
 [**HG Dyneema (Cuben) Tarps**](https://www.hammockgear.com/dyneema-fiber-standard-tarp-with-doors/)  | 7.28 oz | 132" x 102"| $315
 
 
-## Accessories
+## Hammock Issue Resolution
 
-[tothewoods.net](www.tothewoods.net) for instructions on making a hammock, 15 oz
+### Calf Ridge
 
-cuben q-ditty bags
+* tie variable length gathered end whipping to account for ridge 
+* a sit pad under ankles
+* hang feet 12-18" higher than head
+
+
+
 
