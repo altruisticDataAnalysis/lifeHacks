@@ -17,10 +17,10 @@ toothpaste dots dried on plate, dusted with baking soda, chewed prior to use wit
 deuce trowel
 
 #### Toilet paper free backpacking
-[Read the whole article, not just the intro, you'll be happy you did](https://backpackinglight.com/toilet_paper_free/)
-Snow cone, river rocks, wooly lamb's ear (sustainably harvested!), old man's beard (Spanish moss), folded bundle of grass, Douglas Fir cones, smooth sticks, or
+[Read the whole article, not just the intro, you'll be happy you did](https://backpackinglight.com/toilet_paper_free/). 
+Alternatives include now cone, river rocks, wooly lamb's ear (sustainably harvested!), old man's beard (Spanish moss), folded bundle of grass, Douglas Fir cones, or smooth sticks.
 
-Last resort! TP or cut up paper towel as TP (3 zip lock bags to pack out),
+Last resort! TP or cut up paper towel as TP (3 zip lock bags to pack out), or
 two biodegradable wipes per day (dried). 
 
 
