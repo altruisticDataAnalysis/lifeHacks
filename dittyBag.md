@@ -12,11 +12,17 @@ single edge razor blade in cardboard, gum band,
 
 ### Hygeine Bag
 
-deuce trowel
-TP, cut up paper towel as TP (zip lock bag to pack out),
-two biodegradable baby wipes per day (dried), 
 small piece of biodegradable soap, 
 toothpaste dots dried on plate, dusted with baking soda, chewed prior to use with half toothbrush,
+deuce trowel
+
+#### Toilet paper free backpacking
+[Read the whole article, not just the intro, you'll be happy you did](https://backpackinglight.com/toilet_paper_free/)
+Snow cone, river rocks, wooly lamb's ear (sustainably harvested!), old man's beard (Spanish moss), folded bundle of grass, Douglas Fir cones, smooth sticks, or
+
+Last resort! TP or cut up paper towel as TP (3 zip lock bags to pack out),
+two biodegradable wipes per day (dried). 
+
 
 
 ### First Aid Kit
