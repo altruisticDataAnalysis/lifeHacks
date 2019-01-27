@@ -35,9 +35,14 @@ Stuff sack can be attached to hammock peak for storage of down slippers, headlam
 Add bright zing-it line to zippers for easy pulls on warbler, 
 
 
-### Figure-8 lashing for tree straps
+### Figure-8 lashing for whoopie sling
 
 It may also be useful to have an extra set of tree straps for boulder anchoring or big trees.
+
+
+### Tree Straps x 2
+
+Wrap flat and tie with rubber bands.
 
 
 ### Drip line
@@ -54,10 +59,6 @@ Then attached to guyline to the shock cord with a single or double Becket's hitc
 Wrap the guyline in a figure-8 pattern across palm using thumb and pinky.
 Finish the final 1' by wrapping around the figure-8 loop and ending with a slippery hitch.
 
-
-### Tree Straps
-
-Wrap flat and tie with rubber bands.
 
 ### Calf Ridge
 
