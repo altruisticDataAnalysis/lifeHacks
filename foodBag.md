@@ -1,4 +1,15 @@
-### Rainbow Grocery
+### Grub
+
+#### Homemade 
+
+##### Bouillon
+
+salt, chili powder, dehydrated carrots, celery, leeks, ginger and parsley to include with dinner (e.g. couscous)
+
+##### Veggies sliced with soy sauce, then dehydrated
+
+
+#### Rainbow Grocery
 
 main 1: split pea soup,
 
@@ -9,6 +20,8 @@ main 3: curry lentil,
 #### Raw Nuts
 
 cashews (553 kcal/100g), pistachios (560 kcal/100g), almonds (579 kcal/100g), pumpkin seeds (559 kcal/100g), 
+
+
 
 
 ### First Lunch Bag
@@ -22,9 +35,9 @@ hummus pack
 
 ### First Dinner
 
-dry couscous (376 kcal/100g), 
+dry couscous (376 kcal/100g), or quinoa
 
-bouillon cube, 
+**home-made bouillon**, 
 
 sundried tomatos (258 kcal/100g), 
 
