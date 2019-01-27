@@ -1,9 +1,16 @@
 ### Rainbow Grocery
 
-Split Pea Soup
-Black Bean Soup
-Curry Lentil
-Cashews
+main 1: split pea soup,
+
+main 2: black bean soup,
+
+main 3: curry lentil,
+
+cashews, pistachios, almonds, 
+
+chocolate, 
+
+avocado oil, olive oil
 
 ### First Lunch Bag
 
