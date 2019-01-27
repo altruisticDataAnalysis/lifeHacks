@@ -24,6 +24,8 @@ hummus pack
 
 dry couscous (376 kcal/100g), 
 
+bouillon cube, 
+
 sundried tomatos (258 kcal/100g), 
 
 Medjool dates (277 kcal/100g), 
