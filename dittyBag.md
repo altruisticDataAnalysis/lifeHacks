@@ -2,18 +2,23 @@
 
 ### Dinky Stuff
 
-Gossamer Gear micro bottles (4+3+4)  of:
-sunscreen, aloe, **deet, arnica**, 
-**Gossamer Gear lip balm**
-Aquamira A, B, and mix containers,
-dr bronners, bleach, **hand sanitizer**, 
-single edge razor blade in cardboard, gum band,
+Mini bottles of:
+sunscreen, aloe, **deet, arnica**, Aquamira A, B, 
+Dr Bronners castile soap, **hand sanitizer**, 
+
+Micro bottles of:  bleach, Aquamira mix container
+
+**lip balm**
+
+single edge razor blade 
 
 
 ### Hygeine Bag
 
 small piece of biodegradable soap, 
-toothpaste dots dried on plate, dusted with baking soda, chewed prior to use with half toothbrush,
+
+**toothpaste dots dried on plate**, dusted with baking soda, chewed prior to use with half toothbrush,
+
 deuce trowel
 
 #### Toilet paper free backpacking
@@ -27,39 +32,59 @@ two biodegradable wipes per day (dried).
 
 ### First Aid Kit
 
-leukotape (roll) cut into 4 inch bands and put on silicone release paper from a mailing label
+**leukotape (roll) cut into 4 inch bands and put on silicone release paper from a mailing label**
+
 small roll of athletic tape,
-rubber gloves,
+
+**rubber gloves**,
+
 various bandaids,
+
 steri-strips, butterfly closure,
+
 4x4 Gauze pads (2),
+
 small roll of gauze,
-aspirin (pain),
+
 ibuprofin 1000 mg/day,
+
 immodium,
+
 allergy med,
+
 moleskin,
+
 antibiotic oitment packets,
-hydropel
+
+anti-chafe
 
 
 ### Repair Bits
 
-nylon ripstop fabric tape,
-tyvek tape cut to patches with rounded edges on silicone release paper,
 sewing kit, safety pins, silk thread, needle,
-sil-fix, 
-string,
-krazy glue (tiny)
+
+nylon ripstop fabric tape,
+
+string, krazy glue (tiny), tyvek tape cut to patches with rounded edges on silicone release paper, sil-fix, 
 
 
 ### Cook kit
 
-titanium stove, spoon, **1" x 2" sponge**, titanium pot
-paper book of matches,
+titanium stove, 
+
+titanium pot,
+
+bamboo spoon, 
+
+**paper book of matches**,
+
 mini-lighter,
-alcohol in 500 ml platypus with squirt lid (Sriracha) + plastic bag,
-aluminum foil as windscreen,
+
+alcohol in 500 ml platypus with **squirt lid (Sriracha)** + plastic bag,
+
+[Andrew Skurka's aluminum foil windscreen instructions](https://andrewskurka.com/2011/make-your-own-windscreen-for-fancy-feast-stove/)
+
+**1" x 2" sponge**
 
 optional: fire starter (lint, vasoline in baggie),
 
