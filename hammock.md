@@ -24,7 +24,7 @@ Product | weight | size |  cost
 [**HG Dyneema (Cuben) Tarps**](https://www.hammockgear.com/dyneema-fiber-standard-tarp-with-doors/)  | 7.28 oz | 132" x 102"| $315
 
 
-## Hammock Issues
+## Hammock Ideas
 
 ### Peak Bag
 
@@ -49,6 +49,9 @@ Wrap flat and tie with rubber bands.
 
 Thick string tightly doubled around whoopie sling under tarp hang.
 
+Engineer a drip line from the low corner of a tarp to a water bottle attached
+with a "jug sling" knot, pg160 of "The Ultimate Hang 2", for collecting water.
+
 
 ### Self-Tensioning Guyline
 
@@ -56,8 +59,22 @@ Tie 12 inches of 1/8 or 3/32 shock cord into continuous loop through the tarp pu
 Use a Fisherman's knot for the continuous loop.
 Then attached to guyline to the shock cord with a single or double Becket's hitch.
 
+
+### Jug Sling
+
 Wrap the guyline in a figure-8 pattern across palm using thumb and pinky.
 Finish the final 1' by wrapping around the figure-8 loop and ending with a slippery hitch.
+
+
+### Boots and Pack
+
+Hang boots and backpack at edges of hammock with mitten hooks or biners
+
+
+### Gear Hammock
+
+Use a small round stone as a gathering on the top of the backpack cover to attach some Zing-it. 
+Lash more Zing-it to the bottom of the cover for a gear hammock below the hammock.
 
 
 ### Calf Ridge
