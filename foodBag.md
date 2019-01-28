@@ -2,7 +2,7 @@
 
 #### Homemade 
 
-##### Bouillon
+##### [Bouillon](http://hrxxlight.com/2010/09/trail-food-make-your-own-bouillon/)
 
 salt, chili powder, dehydrated carrots, celery, leeks, ginger and parsley to include with dinner (e.g. couscous)
 
