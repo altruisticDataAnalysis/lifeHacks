@@ -68,7 +68,7 @@ Finish the final 1' by wrapping around the figure-8 loop and ending with a slipp
 
 ### Boots and Pack
 
-Hang boots and backpack at edges of hammock with mitten hooks or biners
+Hang boots and backpack at edges of hammock with mitten hooks or carabiners
 
 
 ### Gear Hammock
