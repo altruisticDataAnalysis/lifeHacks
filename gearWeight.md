@@ -1,16 +1,16 @@
 ## Item-by-Item Listing of Gear and its Weight
 
 Category  |  Item  |  Notes  |  Weight (oz)
---------- | ------------- | -------------- | -----
+--- | ------------- | -------------- | -----
 **GEAR WORN** | Shoes | Vasque Trail Runners | 20.0
-  | Hiking Socks |  | 
-  | Hiking Pants |  | 
-  | Nylon Running Shorts |  | 
-  | Short Sleeve Shirt |  | 
-  | Long Sleeve Hoodie |  | 
-  | Sun Hat |  | 
-  | Sunglasses |  | 
-  |  |  | 
+`  | Hiking Socks |  | 
+`  | Hiking Pants |  | 
+`  | Nylon Running Shorts |  | 
+`  | Short Sleeve Shirt |  | 
+`  | Long Sleeve Hoodie |  | 
+`  | Sun Hat |  | 
+`  | Sunglasses |  | 
+`  |  |  | 
 **CLOTHING CARRIED**  |  |  | 
   | Montebell Down Jacket |  | 
   | Rain Coat |  | 
