@@ -11,14 +11,17 @@ _  | Banana Republic Briefs | Black | 2.6 |
 _  | Short Sleeve Shirt |  |  |  
 _  | Long Sleeve Hoodie |  |  |  
 _  | Sun Hat |  |  |  
-_  | Sunglasses |  |  |  
-_  |  |  |  |  
+_  | Sunglasses |  | 1.0 | 27
+_  | Glasses Case | 4.1oz (117g), use a sleeve |  |  
+_  | Reading Glasses |  | 1.0 | 27 
+_  | iPhone | 5.0oz (149g) |  |  
+_  | Pixel | 4.9oz (138g) |  |  
 **CLOTHING CARRIED**  |  |  |  |  
 _  | Montbell Down Jacket | in stuff sack | 5.0 |  142
 _  | Rain Coat | Marmot | 10.7 | 302 
 _  | Rain Pants | Montbell Versalite | 3.5 |  98
-_  | Silk Long Undies |  |  |  
-_  | Silk Long Sleeve Undershirt |  |  |  
+_  | Silk Long Undies |  | 3.3 | 95 
+_  | Silk Long Sleeve Undershirt |  | 3.2 | 92  
 _  | Black Rock Wooly |  |  |  
 _  | Black Rock Original Down Hat |  | 0.9 |  
 _  | Extra Hiking Socks |  |  |  
