@@ -4,13 +4,11 @@ Category  |  Item  |  Notes  |  Weight (oz) | Weight (g)
 --- | ------------- | -------------- | ----- | -----
 **GEAR WORN** | Shoes | Vasque Trail Runners | 20.0 |  
 _  | Hiking Socks | White SmartWool Mini Large | 1.5 |  
-_  | Hiking Pants | Brown Prana Nylon | 13.6 |  
+_  | Hiking Pants | Brown Prana Nylon  | 13.6 |  
 _  | New Balance Tights |  | 6.0 |  
-_  | Nylon Running Shorts |  |  |  
-_  | Banana Republic Briefs | Black | 2.6 |  
-_  | Short Sleeve Shirt |  |  |  
+_  | Nylon Running Shorts | Blue Adidas | 4.5 | 130
+_  | T-shirt | Pacific Northwest- Green | 4.6 | 131
 _  | Long Sleeve Hoodie |  |  |  
-_  | Sun Hat |  |  |  
 _  | Sunglasses |  | 1.0 | 27
 _  | Glasses Case | 4.1oz (117g), use a sleeve |  |  
 _  | Reading Glasses |  | 1.0 | 27 
@@ -20,30 +18,35 @@ _  | Pixel | 4.9oz (138g) |  |
 _  | Montbell Down Jacket | in stuff sack | 5.0 |  142
 _  | Rain Coat | Marmot | 10.7 | 302 
 _  | Rain Pants | Montbell Versalite | 3.5 |  98
+_  | Banana Republic Briefs | Black | 2.6 |  
 _  | Silk Long Undies |  | 3.3 | 95 
 _  | Silk Long Sleeve Undershirt |  | 3.2 | 92  
-_  | Black Rock Wooly |  |  |  
+_  | Black Rock Wooly |  | 0.9 |  26
 _  | Black Rock Original Down Hat |  | 0.9 |  
 _  | Extra Hiking Socks |  |  |  
 _  | Mizuno Long Sleeve | Blue | 4.9 |  
 _  | Sugoi Running Jacket |  | 5.4 |  
 **PACKING**  | Backpack | no frame, pad or belt | 18.6 |  
 _  | Sitpad | backpack back pad | 2.2 |  
+_  | Compression Straps | Blue | 0.6 | 15
 _  | Backpack Frame | Removed 3.1 oz |  |  
 _  | Backpack Belt | Removed 7.0 oz |  |  
 _  | Ursack |  | 7.2 | 203
-_  | OPSAK |  | 1.6 |  45
+_  | OPSAK | 1.6oz (45g) |  | 
 _  | 1 Gal Ziploc (trash bag) |  | 0.3 | 10  
-_  | Pack Cover |  |  |  
+_  | Pack Cover (ZingIt Gear Hammock) |  | 3.4 | 96 
 _  | Stuff Sack Small | Red- Fishing | 0.3 | 8 
+_  | Hemp Strings For Stuff Sacks | Blue, Red and Purple | .1 | 
+_  | Stuff Sack Med| Blue- Clothes | 0.5 | 14 
+_  | Stuff Sack Large|  |  |  
+_  | Stuff Sack X-Large| Purple- Sleep Gear | 0.7 | 20 
 _  | Cuben Ditty Bag |  | 0.5 |  11
 _  | Cuben Stake Bag |  | 0.1 |  
 _  | Mini Dropper | 0.1 oz per bottle, ADDED ONCE FILLED |  |  
-_  | Stuff Sack |  |  |  
 **FISHING** | Rod Tube | Not Carried 11.7 oz |  |  
 _  | Fly rod with sleeve |  | 4.1 |  
-_  | Tippet | 7X and 8X 10g each | 0.8 |  21
-_  | Flys | in Morell Case | 0.7 |  19
+_  | Tippet | 7X and 8X 10g each | 0.4 |  10
+_  | Flys | in Morell Case 0.7oz (19g) |  | 
 _  | Knot Cards | 13g | 0.4 |  12
 _  | Dry Shake | 33g | 1.1 |  32
 _  |  |  |  |  
