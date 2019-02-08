@@ -2,9 +2,9 @@
 
 Category  |  Item  |  Notes  |  Weight (oz) | Weight (g)
 --- | ------------- | -------------- | ----- | -----
-**GEAR WORN** | Shoes | Vasque Trail Runners | 20.0 |  
+**GEAR WORN** | Shoes | Vasque Trail Runners | *20.0* |  
 _  | Hiking Socks | White SmartWool Mini Large | 1.5 |  
-_  | Hiking Pants | Brown Prana Nylon  | 13.6 |  
+_  | Hiking Pants | Brown Prana Nylon  | *13.6* |  
 _  | New Balance Tights |  | 6.0 |  
 _  | Nylon Running Shorts | Blue Adidas | 4.5 | 130
 _  | T-shirt | Pacific Northwest- Green | 4.6 | 131
@@ -16,7 +16,7 @@ _  | iPhone | 5.0oz (149g) |  |
 _  | Pixel | 4.9oz (138g) |  |  
 **CLOTHING CARRIED**  |  |  |  |  
 _  | Montbell Down Jacket | in stuff sack | 5.0 |  142
-_  | Rain Coat | Marmot | 10.7 | 302 
+_  | Rain Coat | Marmot | *10.7* | 302 
 _  | Rain Pants | Montbell Versalite | 3.5 |  98
 _  | Banana Republic Briefs | Black | 2.6 |  
 _  | Silk Long Undies |  | 3.3 | 95 
@@ -24,7 +24,7 @@ _  | Silk Long Sleeve Undershirt |  | 3.2 | 92
 _  | Black Rock Wooly |  | 0.9 |  26
 _  | Black Rock Original Down Hat |  | 0.9 |  
 _  | Extra Hiking Socks |  |  |  
-_  | Mizuno Long Sleeve | Blue | 4.9 |  
+_  | Mizuno Long Sleeve | Blue | *4.9* |  
 _  | Sugoi Running Jacket |  | 5.4 |  
 **PACKING**  | Backpack | no frame, pad or belt | 18.6 |  
 _  | Sitpad | backpack back pad | 2.2 |  
@@ -34,7 +34,7 @@ _  | Backpack Belt | Removed 7.0 oz |  |
 _  | Ursack |  | 7.2 | 203
 _  | OPSAK | 1.6oz (45g) |  | 
 _  | 1 Gal Ziploc (trash bag) |  | 0.3 | 10  
-_  | Pack Cover (ZingIt Gear Hammock) |  | 3.4 | 96 
+_  | Pack Cover (ZingIt Gear Hammock) |  | *3.4* | 96 
 _  | Stuff Sack Small | Red- Fishing | 0.3 | 8 
 _  | Hemp Strings For Stuff Sacks | Blue, Red and Purple | .1 | 
 _  | Stuff Sack Med| Blue- Clothes | 0.5 | 14 
@@ -46,28 +46,28 @@ _  | Mini Dropper | 0.1 oz per bottle, ADDED ONCE FILLED |  |
 **FISHING** | Rod Tube | Not Carried 11.7 oz |  |  
 _  | Fly rod with sleeve |  | 4.1 |  
 _  | Tippet | 7X and 8X 10g each | 0.4 |  10
-_  | Flys | in Morell Case 0.7oz (19g) |  | 
+_  | Flys | in Morell Case 0.7oz (19g), use LCO Fly box |  | 
 _  | Knot Cards | 13g | 0.4 |  12
 _  | Dry Shake | 33g | 1.1 |  32
 _  |  |  |  |  
 **COOKING GEAR** | Stove |  | 3.2 | 91 
 _  | Cuben Crotch Bag | 2 baggies and 2 carabiners | 0.9 | 25  
-_  | Fuel Bottle |  | 0.7 |  20
+_  | Fuel Bottle | 2oz fuel per day | 0.7 |  20
 _  | Wind Screen |  | 0.3 | 8
 _  | Bic Lighter | Lesovic Camp Lighter | 0.4 | 12 
 _  | 2"x1" Sponge |  | 0.2 | 5 
-_  | Titanium Pot |  | 5.7 | 161 
+_  | Titanium Pot | could use 600mL mug | *5.7* | 161 
 _  | Cuben Pot Cozy | Large | 0.8 | 22 
 _  | Bamboo Spoon | in baggie | 0.6 |  18
 _  | Esbit Solid Fuel |  | 0.5 | 14 
 **SHELTER**  | Hammock |  |  |  
 _  | Straps |  |  |  
 _  | Whoopie Slings |  |  |  
-_  | Bug Net | Hummingbird Hammocks Warbleer | 7.7 |  
+_  | Bug Net | Hummingbird Hammocks Warbleer, DIY | *7.7* |  
 _  | Ridgeline | Hummingbird Hammocks Warbler Grey 10g | 0.3 |  
 _  | Tarp |  |  |  
 _  | Titanium Nails (12) |  | 3.8 |  
-_  | Lesovik Hammock |  | 7.9 |  
+_  | Lesovik Hammock | YEAH! | 7.9 |  
 _  | Lesovik Stuff Sack |  | 0.3 |  
 _  | Lesovik Whoopie Slings | 2 x 96" | 0.7 |  
 _  | Lesovik Tree Straps | 2 x 68" | 2.6 |  
@@ -86,7 +86,7 @@ _  | Mosquito Head Net |  | 0.8 |  24
 _  | First Aid Kit |  | 3.2 |  81
 _  | Repair Kit | sewing kit, patches and pins 10g | 0.4 |  10
 _  | Bear Hang Kit |  |  |  
-_  | Bear Spray | 13.5 oz |  |  
+_  | Bear Spray | *13.5oz* |  |  
 _  | Petzl Headlamp |  | 1.2 |  35
 _  |  |  |  |  
 **DINKY STUFF**  | Water Treatment | Aqua Mira | 1.0 |  29
@@ -95,8 +95,8 @@ _  | Anti-chafe | 7 | 0.2 |  7
 _  | Toothpaste Dots |  |  |  
 _  | Paper Book of Matches |  |  |  
 _  | The Deuce | #2 UL trowel | 0.7 |  21
-_  | Soap |  | 0.5 | 14 
-_  | Hand Sanitizer |  |  |  
+_  | Soap | take less! | 0.5 | 14 
+_  | Hand Sanitizer | take some! |  |  
 _  | Single Edge Razor | Derma-Soft | 0.3 | 8  
 _  | Lip Balm | Joshua Tree | 0.1 |  4
 _  | Sunscreen | Repackaged | 0.7 |  19
@@ -105,6 +105,6 @@ _  | Aloe | Repackaged | 0.5 |  15
 _  | Compass |  | 0.4 |  
 _  | Compass strap |  | 0.1 |  
 _  |  |  |  |  
-**Other**  | Suunto Watch |  | 2.5 |  
+**Other**  | Suunto Watch |  | *2.5* |  
 _  |  |  |  |  
 **Consumables**  |  Hummus | 720cal  | 5.2   |  153
