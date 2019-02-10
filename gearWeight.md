@@ -52,7 +52,7 @@ _  | Knot Cards | 13g | 0.4 |  12
 _  | Dry Shake | 33g | 1.1 |  32
 _  |  |  |  |  
 **COOKING GEAR** | Stove |  | 3.2 | 91 
-_  | **Caldera Cone Stove System** |   |   |  
+_  | [Caldera Cone Stove System](https://www.traildesigns.com/products/caldera-cone-system) |   |   |  
 _  | Cuben Crotch Bag | 2 baggies and 2 carabiners | 0.9 | 25  
 _  | Fuel Bottle | 2oz fuel per day | 0.7 |  20
 _  | Wind Screen |  | 0.3 | 8
