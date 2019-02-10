@@ -23,6 +23,7 @@ _  | Silk Long Undies |  | 3.3 | 95
 _  | Silk Long Sleeve Undershirt |  | 3.2 | 92  
 _  | Black Rock Wooly |  | 0.9 |  26
 _  | Black Rock Original Down Hat |  | 0.9 |  
+_  | OR Sun/Rain Hat | Grey | 1.7 | 
 _  | Extra Hiking Socks |  |  |  
 _  | Mizuno Long Sleeve | Blue | *4.9* |  
 _  | Sugoi Running Jacket |  | 5.4 |  
@@ -51,6 +52,7 @@ _  | Knot Cards | 13g | 0.4 |  12
 _  | Dry Shake | 33g | 1.1 |  32
 _  |  |  |  |  
 **COOKING GEAR** | Stove |  | 3.2 | 91 
+_  | **Caldera Cone Stove System** |   |   |  
 _  | Cuben Crotch Bag | 2 baggies and 2 carabiners | 0.9 | 25  
 _  | Fuel Bottle | 2oz fuel per day | 0.7 |  20
 _  | Wind Screen |  | 0.3 | 8
