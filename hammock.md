@@ -35,14 +35,23 @@ Stuff sack can be attached to hammock peak for storage of down slippers, headlam
 Add bright zing-it line to zippers for easy pulls on warbler, 
 
 
-### Figure-8 lashing for whoopie sling
-
-It may also be useful to have an extra set of tree straps for boulder anchoring or big trees.
-
+## Suspenseion
 
 ### Tree Straps x 2
 
 Wrap flat and tie with rubber bands.
+
+
+## Marlinspike Hitch Toggle
+
+Marlinspike hitch is tied by looping tree strap, displace loop across leading strand. 
+Pull leading strand through loop, insert toggle, tighten. Hang whoopie sling on knot, 
+not toggle.
+
+
+### Figure-8 lashing for whoopie sling
+
+It may also be useful to have an extra set of tree straps for boulder anchoring or big trees.
 
 
 ### Drip line
