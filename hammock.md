@@ -1,7 +1,7 @@
 ## HAMMOCKS
 
 
-## Hammock
+### Hammock
 
 Product | weight | cost
 ---------------------------- | -------- | --------
@@ -11,20 +11,59 @@ HG Amsteel Whoopie Sling | .775 oz ea | $7 x 2
 HG Zing-It 180' | .18 oz | $29
 
 
-## Bug Net
+### Bug Net (t h i s   c o u l d   b e   l i g h t e r)
 
 Product | weight | cost
 ---------------------------- | -------- | --------
 Hummingbird Hammock Warbler Bug Net | 8 oz | $40
 
-## Tarps
+### Tarps
 
 Product | weight | size |  cost
 ---------------------------- | -------- | -------- | -------
 [**HG Dyneema (Cuben) Tarps**](https://www.hammockgear.com/dyneema-fiber-standard-tarp-with-doors/)  | 7.28 oz | 132" x 102"| $315
 
 
-## Hammock Ideas
+## Suspenseion
+
+### Tree Straps x 2
+
+Wrap flat and tie with rubber bands.
+It may also be useful to have an extra set of tree straps for boulder anchoring or big trees.
+
+
+### Marlinspike Hitch Toggle
+
+Marlinspike hitch is tied by looping tree strap, displace loop across leading strand. 
+Pull leading strand through loop, insert toggle, tighten. Hang whoopie sling on knot, 
+not toggle.
+
+[Shug Emery How To....Tree Hugger-Marlin-Spike-Toggle for Hammock Suspension](https://youtu.be/giumWY1zknU)
+
+
+### Woopie Slings
+
+[Shug Emery's Whoopie Slings for Hammock Suspension](https://youtu.be/MPDPEEcKlDQ)
+
+**Figure-8 lashing for whoopie sling**
+
+**Dutch biner** would create a water break for connecting whoopie sling to continuous loop through gathered end.
+
+
+### Drip line
+
+Thick string tightly doubled around whoopie sling under tarp hang.
+
+Engineer a drip line from the low corner of a tarp to a water bottle attached
+with a "jug sling" knot, pg160 of "The Ultimate Hang 2", for collecting water.
+
+
+### Ridge Line
+
+[Shug Emery's Hammock Ridgeline Tutorial](https://youtu.be/xrfBrIEH2-U)
+
+
+## Hammock Ammendments 
 
 ### Peak Bag
 
@@ -34,32 +73,6 @@ Stuff sack can be attached to hammock peak for storage of down slippers, headlam
 
 Add bright zing-it line to zippers for easy pulls on warbler, 
 
-
-## Suspenseion
-
-### Tree Straps x 2
-
-Wrap flat and tie with rubber bands.
-
-
-## Marlinspike Hitch Toggle
-
-Marlinspike hitch is tied by looping tree strap, displace loop across leading strand. 
-Pull leading strand through loop, insert toggle, tighten. Hang whoopie sling on knot, 
-not toggle.
-
-
-### Figure-8 lashing for whoopie sling
-
-It may also be useful to have an extra set of tree straps for boulder anchoring or big trees.
-
-
-### Drip line
-
-Thick string tightly doubled around whoopie sling under tarp hang.
-
-Engineer a drip line from the low corner of a tarp to a water bottle attached
-with a "jug sling" knot, pg160 of "The Ultimate Hang 2", for collecting water.
 
 
 ### Self-Tensioning Guyline
