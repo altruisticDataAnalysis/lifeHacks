@@ -2,14 +2,14 @@
 
 Category  |  Item  |  Notes  |  Weight (oz) | Weight (g)
 --- | ------------- | -------------- | ----- | -----
-**GEAR WORN** | Shoes | Vasque Trail Runners | *20.0* |  
+**GEAR WORN** | Shoes | Vasque Trail Runners | 20.0 |  
 _  | Montbell Down Jacket | in stuff sack | 5.0 |  142
 _  | Long Sleeve Hoodie | Arc'teryx Kyanite Nighthawk |  |  
 _  | T-shirt | Pacific Northwest- Green | 4.6 | 131
 _  | Silk Long Sleeve Undershirt |  | 3.2 | 92  
 _  | Mizuno Long Sleeve | Blue 4.9oz |  |  
 _  | Hiking Socks | White SmartWool Mini Large | 1.5 |  
-_  | Hiking Pants | Brown Prana Nylon  | *13.6* |  
+_  | Hiking Pants | Brown Prana Nylon  | 13.6 |  
 _  | Sunglasses |  | 1.0 | 27
 _  | Glasses Case | use a sleeve |  |  
 _  | Reading Glasses |  | 1.0 | 27 
@@ -26,7 +26,7 @@ _  | Extra Hiking Socks |  |  |
 _  | Sugoi Running Jacket |  | 5.4 |  
 **PACKING**  | Backpack | no frame, pad or belt | 18.6 |  
 _  | Sitpad | backpack back pad | 2.2 |  
-_  | Compression Straps | Blue | 0.6 | 15
+_  | Compression Straps | Blue 0.6oz 15g |  | 
 _  | Backpack Frame | Removed 3.1 oz |  |  
 _  | Backpack Belt | Removed 7.0 oz |  |  
 _  | Ursack |  | 7.2 | 203
@@ -61,7 +61,7 @@ _  | Esbit Solid Fuel |  | 0.5 | 14
 **SHELTER**  | Hammock |  |  |  
 _  | Straps |  |  |  
 _  | Whoopie Slings |  |  |  
-_  | Bug Net | Hummingbird Hammocks Warbleer, DIY | *7.7* |  
+_  | Bug Net | Hummingbird Hammocks Warbleer, DIY | 7.7 |  
 _  | Ridgeline | Hummingbird Hammocks Warbler Grey 10g | 0.3 |  
 _  | Tarp |  |  |  
 _  | Titanium Nails (12) |  | 3.8 |  
