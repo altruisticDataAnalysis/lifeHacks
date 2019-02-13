@@ -3,29 +3,26 @@
 Category  |  Item  |  Notes  |  Weight (oz) | Weight (g)
 --- | ------------- | -------------- | ----- | -----
 **GEAR WORN** | Shoes | Vasque Trail Runners | *20.0* |  
+_  | Montbell Down Jacket | in stuff sack | 5.0 |  142
+_  | Long Sleeve Hoodie | Arc'teryx Kyanite Nighthawk |  |  
+_  | T-shirt | Pacific Northwest- Green | 4.6 | 131
+_  | Silk Long Sleeve Undershirt |  | 3.2 | 92  
+_  | Mizuno Long Sleeve | Blue 4.9oz |  |  
 _  | Hiking Socks | White SmartWool Mini Large | 1.5 |  
 _  | Hiking Pants | Brown Prana Nylon  | *13.6* |  
-_  | New Balance Tights |  | 6.0 |  
-_  | Nylon Running Shorts | Blue Adidas | 4.5 | 130
-_  | T-shirt | Pacific Northwest- Green | 4.6 | 131
-_  | Long Sleeve Hoodie |  |  |  
 _  | Sunglasses |  | 1.0 | 27
-_  | Glasses Case | 4.1oz (117g), use a sleeve |  |  
+_  | Glasses Case | use a sleeve |  |  
 _  | Reading Glasses |  | 1.0 | 27 
 _  | iPhone | 5.0oz (149g) |  |  
 _  | Pixel | 4.9oz (138g) |  |  
 **CLOTHING CARRIED**  |  |  |  |  
-_  | Montbell Down Jacket | in stuff sack | 5.0 |  142
-_  | Rain Coat | Marmot | *10.7* | 302 
+_  | Rain Coat | Montbell Versalite | 6.4 |  
 _  | Rain Pants | Montbell Versalite | 3.5 |  98
-_  | Banana Republic Briefs | Black | 2.6 |  
 _  | Silk Long Undies |  | 3.3 | 95 
-_  | Silk Long Sleeve Undershirt |  | 3.2 | 92  
 _  | Black Rock Wooly |  | 0.9 |  26
 _  | Black Rock Original Down Hat |  | 0.9 |  
 _  | OR Sun/Rain Hat | Grey | 1.7 | 
 _  | Extra Hiking Socks |  |  |  
-_  | Mizuno Long Sleeve | Blue | *4.9* |  
 _  | Sugoi Running Jacket |  | 5.4 |  
 **PACKING**  | Backpack | no frame, pad or belt | 18.6 |  
 _  | Sitpad | backpack back pad | 2.2 |  
@@ -35,7 +32,8 @@ _  | Backpack Belt | Removed 7.0 oz |  |
 _  | Ursack |  | 7.2 | 203
 _  | OPSAK | 1.6oz (45g) |  | 
 _  | 1 Gal Ziploc (trash bag) |  | 0.3 | 10  
-_  | Pack Cover (ZingIt Gear Hammock) |  | *3.4* | 96 
+_  | Pack Cover (ZingIt Gear Hammock) | 3.4oz 96g  | |  
+_  | Pack Liner | Gosamer Gear clear plastic | 1.2 | 34
 _  | Stuff Sack Small | Red- Fishing | 0.3 | 8 
 _  | Hemp Strings For Stuff Sacks | Blue, Red and Purple | .1 | 
 _  | Stuff Sack Med| Blue- Clothes | 0.5 | 14 
@@ -50,15 +48,13 @@ _  | Tippet | 7X and 8X 10g each | 0.4 |  10
 _  | Flys | in Morell Case 0.7oz (19g), use LCO Fly box |  | 
 _  | Knot Cards | 13g | 0.4 |  12
 _  | Dry Shake | 33g | 1.1 |  32
-_  |  |  |  |  
 **COOKING GEAR** | Stove |  | 3.2 | 91 
-_  | [Caldera Cone Stove System](https://www.traildesigns.com/products/caldera-cone-system) |   |   |  
 _  | Cuben Crotch Bag | 2 baggies and 2 carabiners | 0.9 | 25  
 _  | Fuel Bottle | 2oz fuel per day | 0.7 |  20
 _  | Wind Screen |  | 0.3 | 8
 _  | Bic Lighter | Lesovic Camp Lighter | 0.4 | 12 
 _  | 2"x1" Sponge |  | 0.2 | 5 
-_  | Titanium Pot | could use 600mL mug | *5.7* | 161 
+_  | Titanium Pot | could use 600mL mug | 5.7 | 161 
 _  | Cuben Pot Cozy | Large | 0.8 | 22 
 _  | Bamboo Spoon | in baggie | 0.6 |  18
 _  | Esbit Solid Fuel |  | 0.5 | 14 
@@ -75,29 +71,28 @@ _  | Lesovik Whoopie Slings | 2 x 96" | 0.7 |
 _  | Lesovik Tree Straps | 2 x 68" | 2.6 |  
 _  | Lesovik Tree Straps Bag 6g |  | 0.2 |  
 _  | Lesovik Toggles 17g |  | 0.6 |  
-_  |  |  |  |  
 **SLEEPING**  | Top Quilt |  |  |  
 _  | Bottom Quilt |  |  |  
-_  | Down Socks |  | 5.2 |  
+_  | Top Quilt |  |  |  
+_  | Down Socks | 5.2oz |  |  
+_  | Large wool hikers |  |  |  
 _  | 2 x 1/8" closed cell pads |  | 5.0 |  
-_  |  |  |  |  
 **ESSENTIALS**  | Water Bottle |  | 2.4 | 68
 _  | Sawyer Micro Water Filter System | filter, plunger, straw, connector, 32 ox bladder, 1 gal Ziploc, (AquaMira weighed separately) | 4.2 |  118
-_  | Bandana |  |  |  
+_  | Bandana, cut |  |  |  
 _  | Mosquito Head Net |  | 0.8 |  24
 _  | First Aid Kit |  | 3.2 |  81
 _  | Repair Kit | sewing kit, patches and pins 10g | 0.4 |  10
 _  | Bear Hang Kit |  |  |  
 _  | Bear Spray | *13.5oz* |  |  
-_  | Petzl Headlamp |  | 1.2 |  35
-_  |  |  |  |  
+_  | Petzl Headlamp |  | 1.2 |  35 
 **DINKY STUFF**  | Water Treatment | Aqua Mira | 1.0 |  29
 _  | Toothbrush | Cut in Half |  |  
 _  | Anti-chafe | 7 | 0.2 |  7
-_  | Toothpaste Dots |  |  |  
+_  | Toothpaste Dots | dehydrated |  |  
 _  | Paper Book of Matches |  |  |  
 _  | The Deuce | #2 UL trowel | 0.7 |  21
-_  | Soap | take less! | 0.5 | 14 
+_  | Soap | tiny bit | 0.5 | 14 
 _  | Hand Sanitizer | take some! |  |  
 _  | Single Edge Razor | Derma-Soft | 0.3 | 8  
 _  | Lip Balm | Joshua Tree | 0.1 |  4
@@ -106,7 +101,5 @@ _  | Deet | Repackaged | 0.4 |  13
 _  | Aloe | Repackaged | 0.5 |  15
 _  | Compass |  | 0.4 |  
 _  | Compass strap |  | 0.1 |  
-_  |  |  |  |  
-**Other**  | Suunto Watch |  | *2.5* |  
-_  |  |  |  |  
-**Consumables**  |  Hummus | 720cal  | 5.2   |  153
+_  | Suunto Watch 2.5oz |  |  |  
+
