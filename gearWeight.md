@@ -44,6 +44,7 @@ _  | Cuben Stake Bag |  | 0.1 |
 _  | Mini Dropper | 0.1 oz per bottle, ADDED ONCE FILLED |  |  
 **FISHING** | Rod Tube | Not Carried 11.7 oz |  |  
 _  | Fly rod with sleeve |  | 4.1 |  
+_  | Reel | Galvan Brookie 0-1  |  |  
 _  | Tippet | 7X and 8X 10g each | 0.4 |  10
 _  | Flys | in Morell Case 0.7oz (19g), use LCO Fly box |  | 
 _  | Knot Cards | 13g | 0.4 |  12
