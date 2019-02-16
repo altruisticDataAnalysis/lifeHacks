@@ -64,6 +64,9 @@ with a "jug sling" knot, pg160 of "The Ultimate Hang 2", for collecting water.
 
 Measure the length of your hammock (11') and make the ridge line 83% of the length = 9'2".
 
+An adjustable whoopie sling with a prusik knot to hold it in place is one option.
+
+Another option is creating a bite at one end of a line, and a figure 8 lashing on the other end.
 
 ## Hammock Ammendments 
 
