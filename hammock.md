@@ -62,6 +62,8 @@ with a "jug sling" knot, pg160 of "The Ultimate Hang 2", for collecting water.
 
 [Shug Emery's Hammock Ridgeline Tutorial](https://youtu.be/xrfBrIEH2-U)
 
+Measure the length of your hammock (11') and make the ridge line 83% of the length = 9'2".
+
 
 ## Hammock Ammendments 
 
