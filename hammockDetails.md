@@ -24,7 +24,7 @@ Product | weight | size |  cost
 [**HG Dyneema (Cuben) Tarps**](https://www.hammockgear.com/dyneema-fiber-standard-tarp-with-doors/)  | 7.28 oz | 132" x 102"| $315
 
 
-## Suspenseion
+## Suspension
 
 ### Tree Straps x 2
 
@@ -32,20 +32,11 @@ Wrap flat and tie with rubber bands.
 It may also be useful to have an extra set of tree straps for boulder anchoring or big trees.
 
 
-### Marlinspike Hitch Toggle
-
-Marlinspike hitch is tied by looping tree strap, displace loop across leading strand. 
-Pull leading strand through loop, insert toggle, tighten. Hang whoopie sling on knot, 
-not toggle.
-
-[Shug Emery How To....Tree Hugger-Marlin-Spike-Toggle for Hammock Suspension](https://youtu.be/giumWY1zknU)
-
-
 ### Woopie Slings
 
 [Shug Emery's Whoopie Slings for Hammock Suspension](https://youtu.be/MPDPEEcKlDQ)
 
-**Figure-8 lashing for whoopie sling**
+Figure-8 lashing for whoopie sling
 
 **Dutch biner** would create a water break for connecting whoopie sling to continuous loop through gathered end.
 
@@ -67,7 +58,6 @@ Measure the length of your hammock (11') and make the ridge line 83% of the leng
 An adjustable whoopie sling with a prusik knot to hold it in place is one option. [whoopieslings.com/Adjustable-Structural-Ridge-Line-ASR](https://shop.whoopieslings.com/Adjustable-Structural-Ridge-Line-ASR.htm)
 
 Another option is creating a bite at one end of a line, and a figure 8 lashing on the other end.
-
 
 ### Peak Bag
 
