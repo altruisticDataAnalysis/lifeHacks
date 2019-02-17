@@ -1,6 +1,6 @@
 # FOOD
 
-A couple of chocolate salted energy balls to start off 
+A couple of **chocolate salted energy balls** to start off 
 the morning will allow an early jump on the trail. 
 
 Stealth is camping, eating and sleeping- off trail, 
@@ -62,11 +62,19 @@ hummus? |  |
 
 ## Menu Details
 
-paper towels
+Paper towels are helpful for meals, especially pancakes!
+
+
+### Rice and Beans
 
 [Homemade Bouillon](http://hrxxlight.com/2010/09/trail-food-make-your-own-bouillon/)
 
 salt, chili powder, dehydrated carrots, celery, leeks, ginger and parsley to include with dinner (e.g. couscous)
+
+
+### Chocolate Salted Energy Balls
+
+recipe
 
 
 ### Mediteranean Dinner
