@@ -15,6 +15,7 @@ _  | Glasses Case | use a sleeve |  |
 _  | Reading Glasses |  | 1.0 | 27 
 _  | iPhone | 5.0oz (149g) |  |  
 _  | Pixel | 4.9oz (138g) |  |  
+_  | Trekking Poles |  |  |  
 **CLOTHING CARRIED**  |  |  |  |  
 _  | Rain Coat | Montbell Versalite | 6.4 |  
 _  | Rain Pants | Montbell Versalite | 3.5 |  98
@@ -46,7 +47,7 @@ _  | Mini Dropper | 0.1 oz per bottle, ADDED ONCE FILLED |  |
 _  | Fly rod with sleeve |  | 4.1 |  
 _  | Reel | Galvan Brookie 0-1  |  |  
 _  | Tippet | 7X and 8X 10g each | 0.4 |  10
-_  | Flys | in Morell Case 0.7oz (19g), use LCO Fly box |  | 
+_  | Flys | Bugs in LCO Fly box |  | 
 _  | Knot Cards | 13g | 0.4 |  12
 _  | Dry Shake | 33g | 1.1 |  32
 **COOKING GEAR** | Stove |  | 3.2 | 91 
@@ -62,6 +63,7 @@ _  | Esbit Solid Fuel |  | 0.5 | 14
 **SHELTER**  | Hammock |  |  |  
 _  | Straps |  |  |  
 _  | Whoopie Slings |  |  |  
+_  | Mesh hammock sock |  |  |  
 _  | Bug Net | Hummingbird Hammocks Warbleer, DIY | 7.7 |  
 _  | Ridgeline | Hummingbird Hammocks Warbler Grey 10g | 0.3 |  
 _  | Tarp |  |  |  
@@ -88,6 +90,9 @@ _  | Bear Hang Kit |  |  |
 _  | Bear Spray | *13.5oz* |  |  
 _  | Petzl Headlamp |  | 1.2 |  35 
 **DINKY STUFF**  | Water Treatment | Aqua Mira | 1.0 |  29
+_  | car key, id |  |  | 
+_  | maps, permit |  |  |  
+_  | bear hang 50' zingIt and rock (garlic) sack |  |  |  
 _  | Toothbrush | Cut in Half |  |  
 _  | Anti-chafe | 7 | 0.2 |  7
 _  | Toothpaste Dots | dehydrated |  |  
@@ -103,4 +108,7 @@ _  | Aloe | Repackaged | 0.5 |  15
 _  | Compass |  | 0.4 |  
 _  | Compass strap |  | 0.1 |  
 _  | Suunto Watch 2.5oz |  |  |  
+
+
+# Lists to check
 
