@@ -3,23 +3,23 @@
 ### Dinky Stuff
 
 Mini bottles of:
-sunscreen, aloe, **deet, arnica**, Aquamira A, B, 
-Dr Bronners castile soap, **hand sanitizer**, 
 
-Micro bottles of:  bleach, Aquamira mix container
-
-**lip balm**
-
-single edge razor blade 
+    sunscreen, 
+    aloe, 
+    deet, 
+    arnica, 
+    Aquamira A, B, 
+    Dr Bronners castile soap, 
+    hand sanitizer, 
+    
+lip balm
 
 
 ### Hygeine Bag
 
-small piece of biodegradable soap, 
-
-**toothpaste dots dried on plate**, dusted with baking soda, chewed prior to use with half toothbrush,
-
-deuce trowel
+    small piece of biodegradable soap, 
+    toothpaste dots dried on plate, dusted with baking soda, chewed prior to use with half toothbrush,
+    deuce trowel
 
 #### Toilet paper free backpacking
 [Read the whole article, not just the intro, you'll be happy you did](https://backpackinglight.com/toilet_paper_free/). 
@@ -32,61 +32,29 @@ two biodegradable wipes per day (dried).
 
 ### First Aid Kit
 
-**leukotape (roll) cut into 4 inch bands and put on silicone release paper from a mailing label**
-
-small roll of athletic tape,
-
-**rubber gloves**,
-
-various bandaids,
-
-steri-strips, butterfly closure,
-
-4x4 Gauze pads (2),
-
-small roll of gauze,
-
-ibuprofin 1000 mg/day,
-
-immodium,
-
-allergy med,
-
-moleskin,
-
-antibiotic oitment packets,
-
-anti-chafe
-
+    leukotape (roll) cut into 4 inch bands and put on silicone release paper from a mailing label
+    small roll of athletic tape,
+    rubber gloves,
+    various bandaids,
+    steri-strips, butterfly closure,
+    4x4 Gauze pads (2),
+    small roll of gauze,
+    ibuprofin 1000 mg/day,
+    immodium,
+    allergy med,
+    moleskin,
+    antibiotic oitment packets,
+    anti-chafe
 
 ### Repair Bits
+ 
+    safety pins, 
+    silk thread, needle,
+    nylon ripstop fabric tape,
+    string, 
+    krazy glue (tiny), 
+    tyvek tape cut to patches with rounded edges on silicone release paper, sil-fix, 
 
-sewing kit, safety pins, silk thread, needle,
-
-nylon ripstop fabric tape,
-
-string, krazy glue (tiny), tyvek tape cut to patches with rounded edges on silicone release paper, sil-fix, 
-
-
-### Cook kit
-
-titanium stove, 
-
-titanium pot,
-
-bamboo spoon, 
-
-**paper book of matches**,
-
-mini-lighter,
-
-alcohol in 500 ml platypus with **squirt lid (Sriracha)** + plastic bag,
-
-[Andrew Skurka's aluminum foil windscreen instructions](https://andrewskurka.com/2011/make-your-own-windscreen-for-fancy-feast-stove/)
-
-**1" x 2" sponge**
-
-optional: fire starter (lint, vasoline in baggie),
 
 
 #### References
