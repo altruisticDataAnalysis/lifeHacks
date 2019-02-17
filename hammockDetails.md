@@ -1,5 +1,4 @@
-## HAMMOCKS
-
+## Hammock Details
 
 ### Hammock
 
@@ -11,7 +10,8 @@ HG Amsteel Whoopie Sling | .775 oz ea | $7 x 2
 HG Zing-It 180' | .18 oz | $29
 
 
-### Bug Net (t h i s   c o u l d   b e   l i g h t e r)
+### Bug Net 
+Can this get lighter?
 
 Product | weight | cost
 ---------------------------- | -------- | --------
@@ -68,7 +68,6 @@ An adjustable whoopie sling with a prusik knot to hold it in place is one option
 
 Another option is creating a bite at one end of a line, and a figure 8 lashing on the other end.
 
-## Hammock Ammendments 
 
 ### Peak Bag
 
@@ -78,14 +77,11 @@ Stuff sack can be attached to hammock peak for storage of down slippers, headlam
 
 Add bright zing-it line to zippers for easy pulls on warbler, 
 
-
-
 ### Self-Tensioning Guyline
 
 Tie 12 inches of 1/8 or 3/32 shock cord into continuous loop through the tarp pullout. 
 Use a Fisherman's knot for the continuous loop.
 Then attached to guyline to the shock cord with a single or double Becket's hitch.
-
 
 ### Jug Sling
 
