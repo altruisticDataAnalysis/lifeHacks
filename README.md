@@ -7,8 +7,8 @@ Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanis
 
 ### Outstanding aquisitions:
 
-    **mitts**
-    **permits** 
+    mitts
+    permits
 
 
 ## Aside: Registered for Big Sur Trail Marathon- Sat, September 28, 2019
