@@ -9,6 +9,21 @@ Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanis
 
     mitts
     permits
+    
+    ## HammockGear
+    25' shock cord
+    dutch clips
+    dyneema fiber tarp
+    mesh sleeve
+    180' ZingIt
+    Amsteel Whoopie Slings
+    2 Continuous Loops
+    Dogbone (Zing-It Ridgeline)
+    Tarp Flyz
+    
+    ## Enlightened Equipment
+    Enigma-H.E. Custom
+    Revolt Down
 
 
 ### Trip Log
