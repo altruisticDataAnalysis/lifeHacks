@@ -15,7 +15,7 @@ Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanis
 
 Date  |  Destination |  Details
 --------- | ------------------------ | ---------------------------
-March XX | Santa Cruz Stealth Camping |  Location is a mystery spot.
+March XX, 2019 | Santa Cruz Stealth Camping |  Location is a mystery spot.
 
 
 
