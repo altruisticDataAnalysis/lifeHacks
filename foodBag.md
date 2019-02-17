@@ -1,6 +1,8 @@
 # FOOD
 
-A couple of **chocolate salted energy balls** to start off 
+## THE MATH
+
+A couple of **raw cacao salted energy balls** to start off 
 the morning will allow an early jump on the trail. 
 
 Stealth is camping, eating and sleeping- off trail, 
@@ -12,10 +14,9 @@ number of days = 3
 
 1.4 Pounds Per Person Per Day (PPPPD) = 22.4 oz of food per day = 2,800 calories (where 1oz = 125 calories)
 
-- weight of MEALS per person per day = 10 oz
+- weight of MEALS per person per day = 10oz
 
-= 12.4 oz Snacks PPPD
-
+22.4oz of food per day - MEALS = 12.4oz SNACKS PPPD
 
 
 ## MEALS
@@ -25,7 +26,6 @@ Lunches are a grazing of snacks on the trail, not cooked.
 
 A stealth breakfast can be cooked off trail after 
 the sun has risen and a beautiful spot has been found. 
-
 
 ### Breakfasts
 
@@ -40,7 +40,7 @@ Food | Detail | Weight (oz)
 ------ | ---------------- | ----------
 **split pea soup** | Rainbow Grocery | 
 black bean soup | Rainbow Grocery- **rice and beans** | 
-instant rice | rice and beans | 
+instant rice | **rice and beans** | 
 crushed cashews, almonds, sunflowers | rice and beans | 
 spices for rice and beans | tomato powder, chili pepper, dried falafel powder, cumin, garlic powder, oregano, brown sugar, salt pepper | 
 spiced olive oil  | oil, garlic, basil powder, oregano powder, mild red paprika, salt pepper (blended and stored in 2oz bott | 
@@ -60,9 +60,7 @@ hummus? |  |
 
 ############################################
 
-## Menu Details
-
-Paper towels are helpful for meals, especially pancakes!
+## RECIPES
 
 
 ### Rice and Beans
@@ -74,22 +72,27 @@ salt, chili powder, dehydrated carrots, celery, leeks, ginger and parsley to inc
 
 ### Chocolate Salted Energy Balls
 
-recipe
+    1 cup raw almonds
+    1 cup raw walnuts
+    2 cups Quaker instant oats
+    2 Tbsp. organic raw cacao powder
+    1/4 + 1/4 tsp Celtic sea salt
+    20 medjool dates
+    3 Tbsp water
 
+    Food process almonds, walnuts, oats, cacao, and 1/2 of sea salt. Don't make nut butter, but almost.
+    Add dates, some water, process again. 
+    Line a container with parchment. 
+    Roll dabs into energy balls. 
+    Refrigerate or Freeze.
 
 ### Mediteranean Dinner
 
-dry couscous (376 kcal/100g), or quinoa
-
-**home-made bouillon**, 
-
-sundried tomatos (258 kcal/100g), 
-
-Medjool dates (277 kcal/100g), 
-
-olive oil or avocado oil (884 kcal/100g), 
-
-chili powder,
-
-hummus
+    dry couscous (376 kcal/100g), or quinoa
+    **home-made bouillon**, 
+    sundried tomatos (258 kcal/100g), 
+    Medjool dates (277 kcal/100g), 
+    olive oil or avocado oil (884 kcal/100g), 
+    chili powder,
+[dry hummus](https://www.campsaver.com/alpine-aire-foods-spicy-southwest-hummus-2-servings.html)
 
