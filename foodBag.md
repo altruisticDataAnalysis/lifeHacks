@@ -1,39 +1,69 @@
-### Grub
+# FOOD
 
-#### Homemade 
 
-##### [Bouillon](http://hrxxlight.com/2010/09/trail-food-make-your-own-bouillon/)
-
-salt, chili powder, dehydrated carrots, celery, leeks, ginger and parsley to include with dinner (e.g. couscous)
-
+### 
 ##### Veggies sliced with soy sauce, then dehydrated
 
 
-#### Rainbow Grocery
+## MEALS
 
-main 1: split pea soup,
+Meals are made up of breakfasts and dinners. 
+Lunches are a grazing of snacks on the trail, not cooked. 
 
-main 2: black bean soup,
+A couple of chocolate salted energy balls to start off 
+the morning will allow an early start on the trail. 
 
-main 3: curry lentil,
+A stealth breakfast can be cooked off trail after 
+the sun has risen and a beautiful spot has been found. 
 
-#### Raw Nuts
-
-cashews (553 kcal/100g), pistachios (560 kcal/100g), almonds (579 kcal/100g), pumpkin seeds (559 kcal/100g), 
-
-
-
-
-### First Lunch Bag
-
-hummus pack
-
-**peanut butter packs**
-
-2 paper towels
+Stealth is camping, eating and sleeping- off trail, 
+out of sight of other wilderness travelers.
 
 
-### First Dinner
+
+### Breakfasts
+
+Food | Detail | Weight
+------ | ---------------- | ----------
+**paleo pancakes**, maple syrup | first breakfast | 
+oatmeal | fruit, nuts, cinnamen and brown sugar |  
+
+### Dinners
+
+Food | Detail | Weight
+------ | ---------------- | ----------
+**split pea soup** | Rainbow Grocery | 
+black bean soup | Rainbow Grocery- **rice and beans** | 
+instant rice | rice and beans | 
+crushed cashews, almonds, sunflowers | rice and beans | 
+spices for rice and beans | tomato powder, chili pepper, dried falafel powder, cumin, garlic powder, oregano, brown sugar, salt pepper | 
+spiced olive oil  | oil, garlic, basil powder, oregano powder, mild red paprika, salt pepper (blended and stored in 2oz bott | 
+**curry lentil** | Rainbow Grocery (as is) | 
+
+## SNACKS
+
+Food | Detail | Weight
+------ | ---------------- | ----------
+raw cashews | 553 kcal/100g | 
+raw pistachios | 560 kcal/100g |
+raw almonds | 579 kcal/100g | 
+raw pumpkin seeds | 559 kcal/100g | 
+PB | yum | 
+hummus? |  | 
+
+
+############################################
+
+## Menu Details
+
+paper towels
+
+[Homemade Bouillon](http://hrxxlight.com/2010/09/trail-food-make-your-own-bouillon/)
+
+salt, chili powder, dehydrated carrots, celery, leeks, ginger and parsley to include with dinner (e.g. couscous)
+
+
+### Mediteranean Dinner
 
 dry couscous (376 kcal/100g), or quinoa
 
@@ -49,15 +79,3 @@ chili powder,
 
 hummus
 
-
-### First Breakfast Bag
-
-**pancakes**, syrup, butter
-
-oatmeal (371 kcal/100g)
-
-**madaglia doro espresso coffee in baggies**, twist tie, cut excess plastic
-
-chocolate disks
-
-paper towels
