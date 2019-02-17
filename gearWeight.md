@@ -33,6 +33,7 @@ _  | Backpack Belt | Removed 7.0 oz |  |
 _  | Ursack |  | 7.2 | 203
 _  | OPSAK | 1.6oz (45g) |  | 
 _  | 1 Gal Ziploc (trash bag) |  | 0.3 | 10  
+_  | Alcohol fuel 500 ml platypus with squirt lid (Sriracha) + plastic bag |  |  | 
 _  | Pack Cover (ZingIt Gear Hammock) | 3.4oz 96g  | |  
 _  | Pack Liner | Gosamer Gear clear plastic | 1.2 | 34
 _  | Stuff Sack Small | Red- Fishing | 0.3 | 8 
@@ -53,13 +54,14 @@ _  | Dry Shake | 33g | 1.1 |  32
 **COOKING GEAR** | Stove |  | 3.2 | 91 
 _  | Cuben Crotch Bag | 2 baggies and 2 carabiners | 0.9 | 25  
 _  | Fuel Bottle | 2oz fuel per day | 0.7 |  20
-_  | Wind Screen |  | 0.3 | 8
+_  | [Andrew Skurka's aluminum foil windscreen instructions](https://andrewskurka.com/2011/make-your-own-windscreen-for-fancy-feast-stove/) |  | 0.3 | 8
 _  | Bic Lighter | Lesovic Camp Lighter | 0.4 | 12 
 _  | 2"x1" Sponge |  | 0.2 | 5 
-_  | Titanium Pot | could use 600mL mug | 5.7 | 161 
+_  | Titanium Pot |  | 5.7 | 161 
 _  | Cuben Pot Cozy | Large | 0.8 | 22 
-_  | Bamboo Spoon | in baggie | 0.6 |  18
+_  | Bamboo Spoon | oiled in baggie | 0.6 |  18
 _  | Esbit Solid Fuel |  | 0.5 | 14 
+_  | Paper book of matches in plastic |  |  | 
 **SHELTER**  | Hammock |  |  |  
 _  | Straps |  |  |  
 _  | Whoopie Slings |  |  |  
