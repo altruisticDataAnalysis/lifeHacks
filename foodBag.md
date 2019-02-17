@@ -1,8 +1,21 @@
 # FOOD
 
+A couple of chocolate salted energy balls to start off 
+the morning will allow an early jump on the trail. 
 
-### 
-##### Veggies sliced with soy sauce, then dehydrated
+Stealth is camping, eating and sleeping- off trail, 
+out of sight of other wilderness travelers.
+
+number of people = 1
+
+number of days = 3
+
+1.4 Pounds Per Person Per Day (PPPPD) = 22.4 oz of food per day = 2,800 calories (where 1oz = 125 calories)
+
+- weight of MEALS per person per day = 10 oz
+
+= 12.4 oz Snacks PPPD
+
 
 
 ## MEALS
@@ -10,27 +23,20 @@
 Meals are made up of breakfasts and dinners. 
 Lunches are a grazing of snacks on the trail, not cooked. 
 
-A couple of chocolate salted energy balls to start off 
-the morning will allow an early start on the trail. 
-
 A stealth breakfast can be cooked off trail after 
 the sun has risen and a beautiful spot has been found. 
-
-Stealth is camping, eating and sleeping- off trail, 
-out of sight of other wilderness travelers.
-
 
 
 ### Breakfasts
 
-Food | Detail | Weight
+Food | Detail | Weight (oz)
 ------ | ---------------- | ----------
 **paleo pancakes**, maple syrup | first breakfast | 
 oatmeal | fruit, nuts, cinnamen and brown sugar |  
 
 ### Dinners
 
-Food | Detail | Weight
+Food | Detail | Weight (oz)
 ------ | ---------------- | ----------
 **split pea soup** | Rainbow Grocery | 
 black bean soup | Rainbow Grocery- **rice and beans** | 
@@ -42,7 +48,7 @@ spiced olive oil  | oil, garlic, basil powder, oregano powder, mild red paprika,
 
 ## SNACKS
 
-Food | Detail | Weight
+Food | Detail | Weight (oz)
 ------ | ---------------- | ----------
 raw cashews | 553 kcal/100g | 
 raw pistachios | 560 kcal/100g |
