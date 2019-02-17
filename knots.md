@@ -1,4 +1,4 @@
-# Knots.mc
+# Knots
 
 ## Fishing Knots
 
