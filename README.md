@@ -19,11 +19,7 @@ March XX | Santa Cruz Stealth Camping |  Location is a mystery spot.
 
 
 
-## Aside: Registered for Big Sur Trail Marathon- Sat, September 28, 2019
 
-26.2 miles is not the scary bit. It's the 5,576' elevation change over the marathon course.
-
-![bigSurMarathon](bigSurMarathon.png)
 
 
 
