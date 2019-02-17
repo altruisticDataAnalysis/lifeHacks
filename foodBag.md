@@ -29,15 +29,15 @@ the sun has risen and a beautiful spot has been found.
 
 ### Breakfasts
 
-Food | Detail | Weight (oz)
------- | ---------------- | ----------
+Food | Detail | kcal/100g |  Weight (oz)
+------ | ---------------- | ---------- | -----------
 **paleo pancakes**, maple syrup | first breakfast |  | 
 oatmeal | fruit, nuts, cinnamen and brown sugar |  | 
 
 ### Dinners
 
 Food | Detail | kcal/100g | Weight (oz)
------- | ---------------- | ----------
+------ | ---------------- | ---------- | -----------
 **split pea soup** | Rainbow Grocery |  | 
 black bean soup | Rainbow Grocery- **rice and beans** |  | 
 instant rice | **rice and beans** |  | 
@@ -49,7 +49,7 @@ spiced olive oil  | oil, garlic, basil powder, oregano powder, mild red paprika,
 ## SNACKS
 
 Food | Detail  |  kcal/100g | Weight (oz)
------- | ---------------- | ----------
+------ | ---------------- | ---------- | ------------
 raw cashews |  | 553 | 
 raw pistachios |  | 560 |
 raw almonds |  | 579 | 
