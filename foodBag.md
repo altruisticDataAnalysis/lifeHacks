@@ -31,31 +31,31 @@ the sun has risen and a beautiful spot has been found.
 
 Food | Detail | Weight (oz)
 ------ | ---------------- | ----------
-**paleo pancakes**, maple syrup | first breakfast | 
-oatmeal | fruit, nuts, cinnamen and brown sugar |  
+**paleo pancakes**, maple syrup | first breakfast |  | 
+oatmeal | fruit, nuts, cinnamen and brown sugar |  | 
 
 ### Dinners
 
-Food | Detail | Weight (oz)
+Food | Detail | kcal/100g | Weight (oz)
 ------ | ---------------- | ----------
-**split pea soup** | Rainbow Grocery | 
-black bean soup | Rainbow Grocery- **rice and beans** | 
-instant rice | **rice and beans** | 
-crushed cashews, almonds, sunflowers | rice and beans | 
-spices for rice and beans | tomato powder, chili pepper, dried falafel powder, cumin, garlic powder, oregano, brown sugar, salt pepper | 
-spiced olive oil  | oil, garlic, basil powder, oregano powder, mild red paprika, salt pepper (blended and stored in 2oz bott | 
-**curry lentil** | Rainbow Grocery (as is) | 
+**split pea soup** | Rainbow Grocery |  | 
+black bean soup | Rainbow Grocery- **rice and beans** |  | 
+instant rice | **rice and beans** |  | 
+crushed cashews, almonds, sunflowers | rice and beans |  | 
+spices for rice and beans | tomato powder, chili pepper, dried falafel powder, cumin, garlic powder, oregano, brown sugar, salt pepper |  | 
+spiced olive oil  | oil, garlic, basil powder, oregano powder, mild red paprika, salt pepper (blended and stored in 2oz bott |  | 
+**curry lentil** | Rainbow Grocery (as is) |  | 
 
 ## SNACKS
 
-Food | Detail | Weight (oz)
+Food | Detail  |  kcal/100g | Weight (oz)
 ------ | ---------------- | ----------
-raw cashews | 553 kcal/100g | 
-raw pistachios | 560 kcal/100g |
-raw almonds | 579 kcal/100g | 
-raw pumpkin seeds | 559 kcal/100g | 
-PB | yum | 
-hummus? |  | 
+raw cashews |  | 553 | 
+raw pistachios |  | 560 |
+raw almonds |  | 579 | 
+raw pumpkin seeds | | 559 | 
+PB | yum |  | 
+hummus? |  |  | 
 
 
 ############################################
