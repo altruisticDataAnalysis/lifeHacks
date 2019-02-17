@@ -31,6 +31,7 @@ Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanis
 Date  |  Destination |  Details
 --------- | ------------------------ | ---------------------------
 March XX, 2019 | Santa Cruz Stealth Camping |  Location is a mystery spot.
+Sept 29, 2019 9am | [Big Sur Trail Marathon](https://raceroster.com/events/2019/20447/2019-big-sur-trail-marathon-half-marathon-5-mile) | 
 
 
 
