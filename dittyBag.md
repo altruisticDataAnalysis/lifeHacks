@@ -59,16 +59,17 @@ two biodegradable wipes per day (dried).
 
 #### References
 
-Mike Clelland Ultralight Backpacking guru and author has a couple of good videos here on ditty bags:
+Mike Clelland is an ultralight backpacking guru and author has a couple of good videos here on ditty bags:
 
-[https://youtu.be/7yIjXGXcWI0](https://youtu.be/7yIjXGXcWI0)
+[Ultralight Backpacking Tips Part 1](https://youtu.be/7yIjXGXcWI0)
 
-[https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be](https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be)
+[Ultralight Backpacking Tips Part 2](https://www.youtube.com/watch?v=I6SjkH5wpyQ&feature=youtu.be)
 
 Cook stove alternative: 
 [andrewskurka.com](andrewskurka.com)
 
-Shug is awesome.
-[YouTube video by Shug Emery](https://youtu.be/jTG38sxvKTo)
+Shug is a hammock lightweight backpacking sage and mentor.
 
-[This was a nice primer on ultralight backpacking from REI.](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html)
+[Shug's Pack Load for 30ºF to 45ºF Wet, Windy & Cold Trips](https://youtu.be/jTG38sxvKTo)
+
+[Here is another nice primer on ultralight backpacking from REI.](https://www.rei.com/learn/expert-advice/ultralight-backpacking.html)
