@@ -1,3 +1,13 @@
+## Kibbutz
+
+### DIY Projects
+
+1. [Platform bed for a queen mattress](https://www.instructables.com/id/Cheap-easy-low-waste-platform-bed/)
+
+2. [Classic workbench plans](https://www.benchcrafted.com/download-files/Classic_Workbench_Notes_BC1216.pdf)
+
+3. [Live edge dining table trestle legs](https://www.instructables.com/id/Cheap-easy-low-waste-trestle-table/)
+
 ## Pursuing Ultralight Backpacking Ideal
 
 Combining alpine fly fishing and minimalist hammock sheltering should be a fun pursuit this spring. 
