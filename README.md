@@ -9,10 +9,8 @@ Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanis
 
     mitts
     permits
+    Mountain House Apple Crisp
         
-    ## Enlightened Equipment
-    Enigma-H.E. Custom
-    Revolt Down
 
 #### Options
 
