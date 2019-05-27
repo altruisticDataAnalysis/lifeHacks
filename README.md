@@ -4,6 +4,23 @@
 
 1. [Platform bed for a queen mattress](https://www.instructables.com/id/Cheap-easy-low-waste-platform-bed/)
 
+* 1x6s have been milled to 55" for slats,
+* 2x4s have been milled to 4' and 5'11" as frame,
+* 10" or 11" leg bits have been cut and sanded as well.
+
+Get Screws 2" and 3" #10 wood screws
+
+Last steps to put it all together. 
+
+* Predrill 2x4s for 3" screws at 3/4" interior to board
+* Bracket long boards with shorter 4' boards (i.e. short boards on top of long boards)
+* Check for square  with diagonal measurements
+* Use cross beam to maintain square
+* Attach slats with 4 screws each
+* Use 3 screws to make "L" legs
+* Use space slat and 4 screws to attach legs to 2x4 frame
+
+
 2. [Classic workbench plans](https://www.benchcrafted.com/download-files/Classic_Workbench_Notes_BC1216.pdf)
 
  "The Classic Workbench requires about 80 board feet of 8/4 lumber and about 8
