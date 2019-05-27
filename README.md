@@ -8,7 +8,7 @@
 * 2x4s have been milled to 4' and 5'11" as frame,
 * 10" or 11" leg bits have been cut and sanded as well.
 
-Get Screws 2" and 3" #10 wood screws
+Get #10 wood screws: 2" [144], and 3" [16] 
 
 Last steps to put it all together. 
 
