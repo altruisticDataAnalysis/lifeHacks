@@ -3,6 +3,8 @@
 ### DIY Projects
 
 1. Snow-mobility
+    * [Altai Hok Skis with Universal Bindings](https://www.llbean.com/llb/shop/114329?page=altai-hok-skis-with-universal-bindings&bc=29-516714-509605-509611&feat=509611-GN3&csp=f&attrValue_0=Wood/Blue%20Graphic)
+    * [L.L. Bean Touring Ski Poles 120-125cm](https://www.llbean.com/llb/shop/66776?attrValue_0=Black&csp=a)
     * [L.L. Bean Heritage Wooden Snowshoes](https://www.llbean.com/llb/shop/114016?page=l-l-bean-heritage-wooden-snowshoes&bc=29-516714-509573-509581&feat=509581-GN3&csp=f&attrValue_0=Wood), $350, brilliant wood and sinew, would be good for fresh powder, but lack crampons for bite on icey conditions.
     * [Atlas Run Snowshoes](https://www.rei.com/product/107172/atlas-run-snowshoes) $250, look good, have aggressive binding which can flip snow back onto wearer at a walking pace.
     
