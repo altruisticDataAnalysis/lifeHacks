@@ -2,9 +2,14 @@
 
 ### DIY Projects
 
-2. [Classic workbench plans](https://www.benchcrafted.com/download-files/Classic_Workbench_Notes_BC1216.pdf)
+1. Snow-mobility
+    * [L.L. Bean Heritage Wooden Snowshoes](https://www.llbean.com/llb/shop/114016?page=l-l-bean-heritage-wooden-snowshoes&bc=29-516714-509573-509581&feat=509581-GN3&csp=f&attrValue_0=Wood), $350, brilliant wood and sinew, would be good for fresh powder, but lack crampons for bite on icey conditions.
+    * [Atlas Run Snowshoes](https://www.rei.com/product/107172/atlas-run-snowshoes) $250, look good, have aggressive binding which can flip snow back onto wearer at a walking pace.
+    
 
- "The Classic Workbench requires about 80 board feet of 8/4 lumber and about 8
+2. Split-top Roubo Workbench
+    * Extension on the [Classic workbench plans](https://www.benchcrafted.com/download-files/Classic_Workbench_Notes_BC1216.pdf)
+  "The Classic Workbench requires about 80 board feet of 8/4 lumber and about 8
 board feet of 4/4 for the shelf. These numbers reflect the actual volume of wood in the
 bench, they don’t account for waste. There are some general rules for accounting for
 waste, but we don’t like to use them because there are too many variables to be
@@ -22,7 +27,8 @@ spend a few extra bucks and order 150bf of lumber, straight-lined and skip plane
 use the leftovers for other projects. We’re frugally minded folks here, so we like to be
 efficient as possible."
 
-3. [Live edge dining table trestle legs](https://www.instructables.com/id/Cheap-easy-low-waste-trestle-table/)
+3. Live edge coffee table
+
 
 ## Pursuing Ultralight Backpacking Ideal
 
@@ -31,10 +37,9 @@ Combining alpine fly fishing and minimalist hammock sheltering should be a fun p
 Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanislaus Wilderness.
 
 
-### Outstanding aquisitions:
+### Outstanding aquisitions
 
-    mitts
-    permits
+    Wilderness permits
     Mountain House Apple Crisp
         
 
@@ -49,8 +54,8 @@ However, along the way I found a stove that is 1/3 the weight of my Ti alcohol s
 
 Date  |  Destination |  Details
 --------- | ------------------------ | ---------------------------
-March XX, 2019 | Santa Cruz Stealth Camping |  Location is a mystery spot.
-Sept 29, 2019 9am | [Big Sur Trail Marathon](https://raceroster.com/events/2019/20447/2019-big-sur-trail-marathon-half-marathon-5-mile) | 
+March XX, 2020 | Santa Cruz Stealth Camping |  Location is a mystery spot.
+Sept 29, 2019 9am | [Big Sur Trail Marathon](https://raceroster.com/events/2019/20447/2019-big-sur-trail-marathon-half-marathon-5-mile) | ~5700' elevation gain (>1 mile), 26.2 miles, finished 6th overall (4:17).
 
 
 
