@@ -33,8 +33,6 @@ spend a few extra bucks and order 150bf of lumber, straight-lined and skip plane
 use the leftovers for other projects. We’re frugally minded folks here, so we like to be
 efficient as possible."
 
-3. Live edge coffee table
-
 
 ## Pursuing Ultralight Backpacking Ideal
 
