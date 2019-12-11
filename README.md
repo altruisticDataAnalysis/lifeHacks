@@ -2,6 +2,10 @@
 
 ### DIY Projects
 
+Cut the wood, refine it, ride it.
+
+First effort after building the split-top Roubo workbench is to attempt to make skishoes (e.g.Altai Hok skis).
+
 1. Snow-mobility
     * [Altai Hok Skis with Universal Bindings](https://www.llbean.com/llb/shop/114329?page=altai-hok-skis-with-universal-bindings&bc=29-516714-509605-509611&feat=509611-GN3&csp=f&attrValue_0=Wood/Blue%20Graphic)
     * [L.L. Bean Touring Ski Poles 120-125cm](https://www.llbean.com/llb/shop/66776?attrValue_0=Black&csp=a)
