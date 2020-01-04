@@ -11,4 +11,10 @@
 
 Try *not* thinking about a white bear. The harder one tries the stronger it becomes.
 
-Mindfulness is watching thoughts or feelings come and go, using skillful observation.
+___Mindfulness___ is watching 
+
+> thoughts or feelings, 
+> 
+>> come and go, 
+> 
+>>> using skillful observation.
