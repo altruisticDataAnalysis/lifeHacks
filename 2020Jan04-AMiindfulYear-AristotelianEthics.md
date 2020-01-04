@@ -7,17 +7,20 @@
 --Richard M. Ryan, Veronika Huta, and Edward L. Deci
 
 
-### Associations
+### Definitions
 
 Bereft- deprived of or lacking something, especially a nonmaterial asset.
 
 Hedonism- the goal of life is pleasure, the more, the better.
 
+Eudaimonia- a Greek word for happiness, what we value most.
+
+
+### Theory 
+
+In theory, anything worthwhile involves some discomfort to attain. In other words, a eudaimonic way of life is found by giving up comfort, and lost by seeking comfort.
+
 Aristotle wrote in *Nicomachean Ethics* that pleasure is the companion of ethical goodness for the *Phronimos* (wise person).
-
-**Eudaimonia**, a Greek word for happiness, what we value most.
-
-In theory, anything worthwhile involves some discomfort to attain.
 
 
 ### Invitation
