@@ -49,9 +49,7 @@ Destinations will include Emmigrant Wilderness, Desolation Wilderness and Stanis
 
 #### Options
 
-Contemplating making a [DIY wood burning stove like Shug Emergy](https://youtu.be/gSAXdYlfyqE). The [pocket bellows](https://smile.amazon.com/dp/B00LDSW5BA/ref=cm_sw_em_r_mt_dp_U_GGlCCbEQQFRE0) is the game changer. I'm definitely in.
-
-However, along the way I found a stove that is 1/3 the weight of my Ti alcohol stove. Yeah, I'm looking at you [Zelph's Fancee Feest](http://www.woodgaz-stove.com/fancee-feest.php) at 0.8oz or 24g.
+Contemplating making a [DIY wood burning stove like Shug Emergy](https://youtu.be/gSAXdYlfyqE). The [pocket bellows](https://smile.amazon.com/dp/B00LDSW5BA/ref=cm_sw_em_r_mt_dp_U_GGlCCbEQQFRE0) is supposed to be the game changer.
 
 
 ### Trip Log
@@ -59,7 +57,7 @@ However, along the way I found a stove that is 1/3 the weight of my Ti alcohol s
 Date  |  Destination |  Details
 --------- | ------------------------ | ---------------------------
 March XX, 2020 | Santa Cruz Stealth Camping |  Location is a mystery spot.
-Sept 29, 2019 9am | [Big Sur Trail Marathon](https://raceroster.com/events/2019/20447/2019-big-sur-trail-marathon-half-marathon-5-mile) | ~5700' elevation gain (>1 mile), 26.2 miles, finished 6th overall (4:17).
+Sept 29, 2019 9am | [Big Sur Trail Marathon](https://raceroster.com/events/2019/20447/2019-big-sur-trail-marathon-half-marathon-5-mile) | ~5700' elevation gain (>1 mile), 26.2 miles, finished with 1st place ribbon (4:17).
 
 
 
