@@ -18,3 +18,7 @@ ___Mindfulness___ is watching
 >> come and go, 
 > 
 >>> using skillful observation.
+
+### Invitation
+
+Acknowledge the thought, feeling, or craving within you. _Simply observe it._ ___Know yourself.___ *From the center of your circle, openly observe, and take an action which moves you in the direction of your goal.* ___Know your goal.___ 
