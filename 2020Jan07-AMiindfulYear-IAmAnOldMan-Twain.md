@@ -17,4 +17,11 @@ Some of the minds thinking styles include
 
 **Catastophize**- to view or talk about (an event or situation) as worse than it actually is, or as if it were a catastrophe.
 
-Stop catastrophizing and get on with your life!
+Stop catastrophizing about worst-case scenarios and get on with your life!
+
+
+### Invitation
+
+1. Notice any stories, 
+2. become aware of predictions, 
+3. recognize the thoughts that you hold.
