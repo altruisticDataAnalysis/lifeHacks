@@ -29,7 +29,7 @@ I give thanks before you, King living and eternal, for You have returned within 
 
 **I am grateful for my wife Daniele, stepson David, 3 stepdaughters Natalie (Ketzel) Jojo and Claire (Mouche), father-in-law Stuart, and mother-in-law Yvonne (Vivian). They have made my life immeasurably more vibrant and joyful.**
 
-I am grateful for our the beautiful homes in San Francisco and Tahoe.
+I am grateful for our beautiful homes in San Francisco and Tahoe.
 
 
 ## Forward Looking
