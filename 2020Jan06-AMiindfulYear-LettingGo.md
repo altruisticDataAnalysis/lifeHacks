@@ -9,5 +9,5 @@
 
 ### Invitation
 
-Today, cut everyone a break. Decide in advance to let the little things go. Consider it an act of love, for others and yourself.
+Today, **cut everyone a break**. Decide in advance to let the little things go. Consider it an act of love, for others and yourself.
 
