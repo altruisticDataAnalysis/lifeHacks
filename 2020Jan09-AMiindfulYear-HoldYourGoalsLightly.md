@@ -20,4 +20,4 @@ A focus on end points can divert our attention from the process, which makes rea
 
 On a long distance run, don't cloud your mind with negative thoughts. The possibility of winning should not overshadow one's mind. This detracts from a pure zen experience.
 
-Try. Simply try your best. That is the goal and all you can do. 
+Try. **Simply try** your best. That is the goal and all you can do. 
