@@ -9,9 +9,4 @@ The second best time is now.
 
 --Chinese proverb 
 
-If you want to go fast, go alone.  
-If you want to go far, go together.
-
---African proverb
-
-![](images/AfricanProverb)
+![](africanProverb.jpg)
