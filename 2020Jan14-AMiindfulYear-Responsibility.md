@@ -1,4 +1,4 @@
-## 
+## Responsibility
 
 #### 2020 January 14
 
