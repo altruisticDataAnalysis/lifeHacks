@@ -1,4 +1,4 @@
-## 
+## Technology
 
 #### 2020 February 04
 
@@ -14,4 +14,4 @@ We can control our experience of the digital world.
 We can wait to be informed about the news later in the day,  
 instead of getting the unsettling dose first thing in the morning.  
 
-I am turning off the Google News Routine that follows my morning alarm.  
+I am turning off the Google News Routine which follows my morning alarm.  
