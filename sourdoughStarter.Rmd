@@ -1,0 +1,53 @@
+---
+title: "Bread Making"
+author: "Jeffrey Long"
+date: "4/5/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Sourdough Starter
+
+Jacqueline Miller shared a cup of sourdough starter with me on April 4, 2020. She also shared [this link to Food 52's YouTube video on bread making](https://www.youtube.com/watch?v=sZP3TKWlGnA). Equally important is [this video on sourdough starter with James Beard Award winning baker Sarah Owens](https://www.youtube.com/watch?v=QbeP4szTVU4). Here's Sarah's website [Ritual Fine Foods](https://ritualfinefoods.com/).
+
+Name the starter: Zoey
+
+To get:  
+* King Arthur Flour
+* Cheese Cloth
+* Glass Jar, Lid
+* Scale
+* Bowl scraper 
+* Silver bowl for fermenting bread
+* Bench knife to flip dough
+* Parchment for baking in dutch oven
+* Proofing basket, linen liner
+
+Store stone ground flour in fridge or freezer to maintain integrity of oils.
+
+Mix equal parts flour, starter, water once a week. You can overfeed 2x or 3x flour, but never underfeed. Starter can be stored in fridge to push the starter in to a dormant state.
+
+## The Bread
+
+[Recipe numero uno from Sarah Owens](https://food52.com/blog/23861-how-to-make-sourdough-bread-sarah-owens-dear-test-kitchen?utm_source=YouTube&utm_medium=SocialMarketing&utm_campaign=Editorial). 
+
+### Things to remember
+* Use room temp water, always.
+* Never use iodized salt.
+* Use your hands; wet hands help.
+* Stretch and fold every 30-45 min, with hand, about five times from side of bowl to center.
+
+Let ferment in bulk fermentation for about 4 hours. Nice to see bubbled in bread.
+
+### Shaping the Bread
+
+Proofing basket or a linen-lined colander or bowl can be used to shape the bread.  
+
+Tilt fermented dough from bowl with bowl scraper, stretch and fold to center four times. Then stretch and fold each corner to center. Then use bowl scaper to flip loaf and let dough relax for 30 min.
+
+Final Shaping
+
+
