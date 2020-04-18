@@ -1,0 +1,31 @@
+---
+title: "Tahoe Projects"
+author: "Jeffrey Long"
+date: "4/18/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Drafting Table
+
+Having received a bachelor's of science in ecology, my heart has always been
+with, for, and above all else protecting nature. When it came to finding a 
+desk to improve my remote working situation during the 2020 COVID-19 pandemic,
+the new construction designs left me wanting. Craftsmanship is a more highly 
+valued quality in woodworking today. The manufacturing of Ikea style 
+furniture has no place in my home. So I found myself attracted to a pre-1974 
+drafting table on Craigslist.
+
+After a bit of rough and tender sanding with a Festool Rotex, a Dremel, and 
+a 1990's Craftsman 1/4 sheet finishing sander, the drafting table was
+transformed to it's near original state. The engineering and thought that
+went into building this desk brought me delight. So it was time to protect 
+this antique from the elements of nature. 
+
+Wrapping wooden furntiure in plastic, polyurethane is not my idea of 
+living with the Earth. So I chose [linseed oil as my method for wood 
+finishing.](https://ardec.ca/en/blog/22/linseed-oil-a-natural-solution-for-wood-finishing) I couldn't be happier with the results! 
+
