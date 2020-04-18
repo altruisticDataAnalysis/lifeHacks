@@ -30,3 +30,9 @@ living with the Earth. So I chose [linseed oil as my method for wood
 finishing.](https://ardec.ca/en/blog/22/linseed-oil-a-natural-solution-for-wood-finishing) 
 I couldn't be happier with the results! 
 
+### RStudio and GitHub Not Communicating
+
+[https://happygitwithr.com/rstudio-git-github.html](https://happygitwithr.com/rstudio-git-github.html)
+
+
+
